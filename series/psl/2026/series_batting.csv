@@ -1,0 +1,67 @@
+id,fixture_id,innings,player,team,runs,balls,fours,sixes,strike_rate,position
+1,69483,1,Mohammad Rizwan,Rawalpindiz,21,13,4,0,161.54,1
+2,69483,1,Yasir Khan,Rawalpindiz,8,8,1,0,100.0,2
+3,69483,1,Kamran Ghulam,Rawalpindiz,10,11,2,0,90.91,3
+4,69483,1,Daryl Mitchell,Rawalpindiz,65,41,5,3,158.54,4
+5,69483,1,Sam Billings,Rawalpindiz,58,35,8,1,165.71,5
+6,69483,1,Abdullah Fazal,Rawalpindiz,18,7,1,2,257.14,6
+7,69483,1,Cole McConchie,Rawalpindiz,2,5,0,0,40.0,7
+8,69483,1,Rishad Hossain,Rawalpindiz,0,1,0,0,0.0,8
+9,69483,2,Muhammad Waseem,Karachi Kings,23,11,2,2,209.09,1
+10,69483,2,David Warner,Karachi Kings,50,36,6,1,138.89,2
+11,69483,2,Salman Agha,Karachi Kings,29,24,3,1,120.83,3
+12,69483,2,Azam Khan,Karachi Kings,74,34,6,6,217.65,4
+13,69483,2,Khushdil Shah,Karachi Kings,5,7,0,0,71.43,5
+14,69483,2,Moeen Ali,Karachi Kings,5,4,1,0,125.0,6
+15,69485,2,Devon Conway,Islamabad United,6,11,0,0,55.0,1
+16,69485,2,Sameer Minhas,Islamabad United,70,36,0,0,194.0,2
+17,69485,2,Mohammad Faiq,Islamabad United,19,16,0,0,119.0,3
+18,69485,2,Haider Ali,Islamabad United,26,16,0,0,163.0,4
+19,69485,2,Mark Chapman,Islamabad United,24,7,0,0,343.0,5
+20,69486,2,Sahibzada Farhan,Multan Sultans,32,14,0,0,229.0,1
+21,69486,2,Steven Smith,Multan Sultans,53,35,0,0,151.0,2
+22,69486,2,Josh Philippe,Multan Sultans,18,15,0,0,120.0,3
+23,69486,2,Shan Masood,Multan Sultans,45,28,0,0,161.0,4
+24,69486,2,Arafat Minhas,Multan Sultans,6,8,0,0,75.0,5
+25,69486,2,Ashton Turner,Multan Sultans,4,3,0,0,133.0,6
+26,69487,2,Sahibzada Farhan,Multan Sultans,68,38,0,0,179.0,1
+27,69487,2,Steven Smith,Multan Sultans,5,5,0,0,100.0,2
+28,69487,2,Josh Philippe,Multan Sultans,56,30,0,0,187.0,3
+29,69487,2,Shan Masood,Multan Sultans,27,15,0,0,180.0,4
+30,69487,2,Ashton Turner,Multan Sultans,26,10,0,0,260.0,5
+31,69488,2,Mohammad Haris,Peshawar Zalmi,11,6,0,0,183.0,1
+32,69488,2,Babar Azam,Peshawar Zalmi,43,37,0,0,116.0,2
+33,69488,2,Kusal Mendis,Peshawar Zalmi,27,23,0,0,117.0,3
+34,69488,2,Michael Bracewell,Peshawar Zalmi,25,19,0,0,132.0,4
+35,69488,2,Farhan Yousaf,Peshawar Zalmi,15,12,0,0,125.0,5
+36,69488,2,Abdul Samad,Peshawar Zalmi,1,3,0,0,33.0,6
+37,69488,2,Iftikhar Ahmed,Peshawar Zalmi,15,10,0,0,150.0,7
+38,69488,2,Aamer Jamal,Peshawar Zalmi,6,10,0,0,60.0,8
+39,69489,2,Devon Conway,Islamabad United,59,35,0,0,169.0,1
+40,69489,2,Sameer Minhas,Islamabad United,5,8,0,0,63.0,2
+41,69489,2,Mohammad Faiq,Islamabad United,34,19,0,0,179.0,3
+42,69492,2,Fakhar Zaman,Lahore Qalandars,21,19,0,0,111.0,1
+43,69492,2,Mohammad Naeem,Lahore Qalandars,1,2,0,0,50.0,2
+44,69492,2,Abdullah Shafique,Lahore Qalandars,21,15,0,0,140.0,3
+45,69492,2,Sikandar Raza,Lahore Qalandars,14,13,0,0,108.0,4
+46,69492,2,Haseebullah Khan,Lahore Qalandars,3,8,0,0,38.0,5
+47,69492,2,Asif Ali,Lahore Qalandars,0,3,0,0,0.0,6
+48,69492,2,Shaheen Afridi,Lahore Qalandars,5,7,0,0,71.0,7
+49,69492,2,Dunith Wellalage,Lahore Qalandars,20,24,0,0,83.0,8
+50,69492,2,Usama Mir,Lahore Qalandars,1,2,0,0,50.0,9
+51,69492,2,Ubaid Shah,Lahore Qalandars,4,6,0,0,67.0,10
+52,69492,2,Mustafizur Rahman,Lahore Qalandars,4,3,0,0,133.0,11
+53,69493,1,Abhishek Sharma,Sunrisers Hyderabad,74,28,5,8,264.29,1
+54,69493,1,Travis Head,Sunrisers Hyderabad,38,23,5,1,165.22,2
+55,69493,1,Ishan Kishan,Sunrisers Hyderabad,27,17,3,1,158.82,3
+56,69493,1,Heinrich Klaasen,Sunrisers Hyderabad,39,33,1,1,118.18,4
+57,69493,1,Aniket Verma,Sunrisers Hyderabad,18,9,1,1,200.0,5
+58,69493,1,Salil Arora,Sunrisers Hyderabad,9,8,0,1,112.5,6
+59,69493,1,Nitish Kumar Reddy,Sunrisers Hyderabad,0,1,0,0,0.0,7
+60,69493,1,Harsh Dubey,Sunrisers Hyderabad,1,2,0,0,50.0,8
+61,69493,2,Priyansh Arya,Punjab Kings,57,20,5,5,285.0,1
+62,69493,2,Prabhsimran Singh,Punjab Kings,51,25,4,4,204.0,2
+63,69493,2,Cooper Connolly,Punjab Kings,11,12,1,0,91.67,3
+64,69493,2,Shreyas Iyer,Punjab Kings,69,33,5,5,209.09,4
+65,69493,2,Nehal Wadhera,Punjab Kings,14,14,0,1,100.0,5
+66,69493,2,Shashank Singh,Punjab Kings,16,9,1,1,177.78,6

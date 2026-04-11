@@ -1,0 +1,63 @@
+id,fixture_id,innings,player,team,overs,runs_conceded,wickets,economy
+1,69483,1,Moeen Ali,Karachi Kings,1.0,13,0,0.0
+2,69483,1,Mir Hamza,Karachi Kings,4.0,49,1,0.0
+3,69483,1,Hasan Ali,Karachi Kings,4.0,24,3,0.0
+4,69483,1,Khushdil Shah,Karachi Kings,4.0,37,2,0.0
+5,69483,1,Adam Zampa,Karachi Kings,4.0,28,0,0.0
+6,69483,1,Abbas Afridi,Karachi Kings,3.0,37,0,0.0
+7,69483,2,Mohammad Amir,Rawalpindiz,4.0,38,1,0.0
+8,69483,2,Cole McConchie,Rawalpindiz,1.4,20,0,0.0
+9,69483,2,Naseem Shah,Rawalpindiz,2.2,26,1,0.0
+10,69483,2,Mohammad Amir Khan,Rawalpindiz,4.0,44,0,0.0
+11,69483,2,Daryl Mitchell,Rawalpindiz,3.0,26,2,0.0
+12,69483,2,Rishad Hossain,Rawalpindiz,4.0,38,0,0.0
+13,69485,2,Mohammad Amir,Rawalpindiz,3.0,18,1,6.0
+14,69485,2,Mohammad Amir Khan,Rawalpindiz,2.0,24,0,12.0
+15,69485,2,Jalat Khan,Rawalpindiz,3.0,38,1,12.67
+16,69485,2,Rishad Hossain,Rawalpindiz,3.0,36,1,12.0
+17,69485,2,Dian Forrester,Rawalpindiz,1.2,18,0,13.5
+18,69485,2,Kamran Ghulam,Rawalpindiz,1.0,7,0,7.0
+19,69485,2,Daryl Mitchell,Rawalpindiz,1.0,12,0,12.0
+20,69486,2,Alzarri Joseph,Quetta Gladiators,2.1,28,1,12.92
+21,69486,2,Abrar Ahmed,Quetta Gladiators,4.0,46,0,11.5
+22,69486,2,Tom Curran,Quetta Gladiators,2.0,24,0,12.0
+23,69486,2,Usman Tariq,Quetta Gladiators,4.0,25,0,6.25
+24,69486,2,Saud Shakeel,Quetta Gladiators,3.0,25,1,8.33
+25,69486,2,Hasan Nawaz,Quetta Gladiators,2.0,17,2,8.5
+26,69487,2,Asif Afridi,Rawalpindiz,4.0,35,0,8.75
+27,69487,2,Mohammad Amir,Rawalpindiz,3.0,32,2,10.67
+28,69487,2,Mohammad Amir Khan,Rawalpindiz,4.0,44,1,11.0
+29,69487,2,Rishad Hossain,Rawalpindiz,3.0,46,0,15.33
+30,69487,2,Daryl Mitchell,Rawalpindiz,2.0,15,0,7.5
+31,69487,2,Dian Forrester,Rawalpindiz,0.2,10,0,30.0
+32,69488,2,Mohammad Ali,Hyderabad Kingsmen,3.0,16,1,5.33
+33,69488,2,Maheesh Theekshana,Hyderabad Kingsmen,4.0,36,1,9.0
+34,69488,2,Hassan Khan,Hyderabad Kingsmen,3.0,25,1,8.33
+35,69488,2,Maaz Sadaqat,Hyderabad Kingsmen,2.0,16,0,8.0
+36,69488,2,Saim Ayub,Hyderabad Kingsmen,4.0,19,2,4.75
+37,69488,2,Hunain Shah,Hyderabad Kingsmen,4.0,32,1,8.0
+38,69489,2,Shaheen Afridi,Lahore Qalandars,3.0,22,1,7.33
+39,69489,2,Ubaid Shah,Lahore Qalandars,2.0,14,0,7.0
+40,69489,2,Haris Rauf,Lahore Qalandars,1.0,10,0,10.0
+41,69489,2,Mustafizur Rahman,Lahore Qalandars,2.0,16,0,8.0
+42,69489,2,Sikandar Raza,Lahore Qalandars,2.0,33,0,16.5
+43,69489,2,Ryan Burl,Lahore Qalandars,0.2,4,0,12.0
+44,69492,2,Iftikhar Ahmed,Peshawar Zalmi,2.0,15,0,7.5
+45,69492,2,Shoriful Islam,Peshawar Zalmi,2.0,17,1,8.5
+46,69492,2,Michael Bracewell,Peshawar Zalmi,4.0,18,3,4.5
+47,69492,2,Nahid Rana,Peshawar Zalmi,3.0,15,2,5.0
+48,69492,2,Sufiyan Muqeem,Peshawar Zalmi,4.0,21,3,5.25
+49,69492,2,Aamer Jamal,Peshawar Zalmi,2.0,10,1,5.0
+50,69493,1,Arshdeep Singh,Karachi Kings,4.0,50,2,0.0
+51,69493,1,Xavier Bartlett,Karachi Kings,4.0,42,1,0.0
+52,69493,1,Marco Jansen,Karachi Kings,4.0,40,0,0.0
+53,69493,1,Vijaykumar Vyshak,Karachi Kings,2.0,33,0,0.0
+54,69493,1,Shashank Singh,Karachi Kings,3.0,20,2,0.0
+55,69493,1,Yuzvendra Chahal,Karachi Kings,3.0,33,0,0.0
+56,69493,2,Harsh Dubey,Karachi Kings,4.0,38,1,0.0
+57,69493,2,Jaydev Unadkat,Karachi Kings,3.0,40,0,0.0
+58,69493,2,Eshan Malinga,Karachi Kings,3.0,46,0,0.0
+59,69493,2,Harshal Patel,Karachi Kings,2.0,39,0,0.0
+60,69493,2,Shivang Kumar,Karachi Kings,4.0,33,3,0.0
+61,69493,2,Nitish Kumar Reddy,Karachi Kings,2.0,20,0,0.0
+62,69493,2,Abhishek Sharma,Karachi Kings,0.5,7,0,0.0

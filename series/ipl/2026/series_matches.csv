@@ -1,0 +1,14 @@
+fixture_id,match_number,home,away,venue,date,toss_winner,toss_decision,inn1_total,inn1_wickets,inn2_total,inn2_wickets,winner,pp_runs_inn1,pp_runs_inn2,middle_runs_inn1,middle_runs_inn2,death_runs_inn1,death_runs_inn2,created_at
+69521,0,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2026-03-31,,,0,0,0,0,,0,0,0,0,0,0,2026-03-31T14:00:24.256250+00:00
+69522,0,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-04-01,delhi capitals,bowl,141,10,145,4,Delhi Capitals,31,0,80,0,32,0,2026-04-01T17:33:24.465227+00:00
+69523,0,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",2026-04-02,kolkata knight riders,bowl,226,8,161,10,Sunrisers Hyderabad,74,0,84,0,2,0,2026-04-03T13:31:01.043800+00:00
+69524,0,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chennai",2026-04-03,punjab kings,bowl,209,5,205,5,,67,0,95,0,47,0,2026-04-03T17:55:42.829307+00:00
+69525,0,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",2026-04-04,delhi capitals,bowl,162,6,160,4,,42,0,94,0,26,0,2026-04-04T13:34:55.246290+00:00
+69526,0,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,2026-04-04,,,0,0,0,0,,0,0,0,0,0,0,2026-04-04T14:00:12.603696+00:00
+69527,0,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Hyderabad",2026-04-05,lucknow super giants,bowl,156,9,156,5,Lucknow Super Giants,53,0,59,0,46,0,2026-04-05T13:46:16.352051+00:00
+69528,0,Royal Challengers Bengaluru,Chennai Super Kings,M.Chinnaswamy Stadium,2026-04-06,,,250,10,207,10,,75,0,88,0,42,0,2026-04-06T13:46:10.302581+00:00
+69529,0,Kolkata Knight Riders,Punjab Kings,Eden Gardens,2026-04-06,,,0,0,0,0,,0,0,0,0,0,0,2026-04-06T14:00:07.854098+00:00
+69531,0,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,2026-04-08,,,0,0,0,0,,0,0,0,0,0,0,2026-04-08T14:00:15.186556+00:00
+69532,0,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",2026-04-09,lucknow super giants,bowl,181,10,182,7,Lucknow Super Giants,54,0,71,0,54,0,2026-04-10T13:37:28.059223+00:00
+69533,0,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2026-04-10,rajasthan royals,bowl,201,8,202,4,Rajasthan Royals,97,0,79,0,25,0,2026-04-11T09:16:14.710145+00:00
+69534,0,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2026-04-11,,,0,0,0,0,,0,0,0,0,0,0,2026-04-11T10:00:06.751395+00:00

@@ -1,0 +1,13 @@
+fixture_id,match_number,home,away,venue,date,toss_winner,toss_decision,inn1_total,inn1_wickets,inn2_total,inn2_wickets,winner,pp_runs_inn1,pp_runs_inn2,middle_runs_inn1,middle_runs_inn2,death_runs_inn1,death_runs_inn2,created_at
+69480,0,Islamabad United,Peshawar Zalmi,Gaddafi Stadium,2026-03-31,,,0,0,0,0,,0,0,0,0,0,0,2026-03-31T14:00:22.326987+00:00
+69481,0,Multan Sultans,Hyderabad Kingsmen,Gaddafi Stadium,2026-03-31,,,0,0,0,0,,0,0,0,0,0,0,2026-03-31T15:47:09.728274+00:00
+69483,0,Rawalpindiz,Karachi Kings,"Gaddafi Stadium, Lahore",2026-04-02,karachi kings,bowl,197,6,193,4,,52,0,91,0,49,0,2026-04-02T17:32:23.206102+00:00
+69485,0,Rawalpindiz,Islamabad United,Gaddafi Stadium,2026-04-04,,,156,10,157,3,,58,0,95,0,0,0,2026-04-04T17:53:42.469088+00:00
+69486,0,Multan Sultans,Quetta Gladiators,Gaddafi Stadium,2026-04-05,,,166,10,166,4,,82,0,60,0,23,0,2026-04-05T17:04:27.348545+00:00
+69487,0,Multan Sultans,Rawalpindiz,Gaddafi Stadium,2026-04-06,,,182,10,186,3,,58,0,103,0,21,0,2026-04-06T17:18:57.835019+00:00
+69488,0,Hyderabad Kingsmen,Peshawar Zalmi,National Stadium,2026-04-08,,,145,10,146,6,,55,0,60,0,29,0,2026-04-08T17:36:25.006117+00:00
+69489,0,Lahore Qalandars,Islamabad United,National Stadium,2026-04-09,,,100,10,104,1,,46,0,53,0,0,0,2026-04-09T13:46:04.213721+00:00
+69490,0,Karachi Kings,Peshawar Zalmi,National Stadium,2026-04-09,,,0,0,0,0,,0,0,0,0,0,0,2026-04-09T14:00:15.038831+00:00
+69491,0,Quetta Gladiators,Rawalpindiz,National Stadium,2026-04-10,,,0,0,0,0,,0,0,0,0,0,0,2026-04-10T14:00:17.943720+00:00
+69492,0,Peshawar Zalmi,Lahore Qalandars,National Stadium,2026-04-11,,,173,10,97,10,,43,0,37,0,16,0,2026-04-11T12:53:12.723082+00:00
+69493,0,Karachi Kings,Hyderabad Kingsmen,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",2026-04-11,punjab kings,bowl,219,6,223,4,Punjab Kings,0,0,0,0,0,0,2026-04-11T14:00:11.751260+00:00

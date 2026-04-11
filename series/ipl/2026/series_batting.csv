@@ -1,0 +1,125 @@
+id,fixture_id,innings,player,team,runs,balls,fours,sixes,strike_rate,position
+1,69522,1,Mitchell Marsh,Lucknow Super Giants,35,28,2,3,125.0,1
+2,69522,1,Rishabh Pant,Lucknow Super Giants,7,9,1,0,77.78,2
+3,69522,1,Aiden Markram,Lucknow Super Giants,11,8,1,1,137.5,3
+4,69522,1,Ayush Badoni,Lucknow Super Giants,0,3,0,0,0.0,4
+5,69522,1,Nicholas Pooran,Lucknow Super Giants,8,8,1,0,100.0,5
+6,69522,1,Abdul Samad,Lucknow Super Giants,36,25,3,1,144.0,6
+7,69522,1,Mukul Choudhary,Lucknow Super Giants,14,11,2,0,127.27,7
+8,69522,1,Shahbaz Ahmed,Lucknow Super Giants,15,16,1,0,93.75,8
+9,69522,1,Mohammed Shami,Lucknow Super Giants,1,2,0,0,50.0,9
+10,69522,1,Anrich Nortje,Lucknow Super Giants,0,1,0,0,0.0,10
+11,69522,1,Mohsin Khan,Lucknow Super Giants,0,1,0,0,0.0,11
+12,69522,2,KL Rahul,Delhi Capitals,0,1,0,0,0.0,1
+13,69522,2,Pathum Nissanka,Delhi Capitals,1,5,0,0,20.0,2
+14,69522,2,Nitish Rana,Delhi Capitals,15,17,2,1,88.24,3
+15,69522,2,Sameer Rizvi,Delhi Capitals,70,47,5,4,148.94,4
+16,69522,2,Axar Patel,Delhi Capitals,0,1,0,0,0.0,5
+17,69522,2,Tristan Stubbs,Delhi Capitals,39,32,3,1,121.88,6
+18,69523,1,Travis Head,Sunrisers Hyderabad,46,21,6,3,219.05,1
+19,69523,1,Abhishek Sharma,Sunrisers Hyderabad,48,21,4,4,228.57,2
+20,69523,1,Ishan Kishan,Sunrisers Hyderabad,14,9,3,0,155.56,3
+21,69523,1,Heinrich Klaasen,Sunrisers Hyderabad,52,35,4,1,148.57,4
+22,69523,1,Aniket Verma,Sunrisers Hyderabad,1,4,0,0,25.0,5
+23,69523,1,Nitish Kumar Reddy,Sunrisers Hyderabad,39,24,4,1,162.5,6
+24,69523,1,Salil Arora,Sunrisers Hyderabad,0,1,0,0,0.0,7
+25,69523,1,Harsh Dubey,Sunrisers Hyderabad,9,3,2,0,300.0,8
+26,69523,1,Shivang Kumar,Sunrisers Hyderabad,4,2,1,0,200.0,9
+27,69523,2,Ajinkya Rahane,Kolkata Knight Riders,8,10,0,0,80.0,1
+28,69523,2,Finn Allen,Kolkata Knight Riders,28,7,4,2,400.0,2
+29,69523,2,Angkrish Raghuvanshi,Kolkata Knight Riders,52,29,6,2,179.31,3
+30,69523,2,Cameron Green,Kolkata Knight Riders,2,2,0,0,100.0,4
+31,69523,2,Rinku Singh,Kolkata Knight Riders,35,25,4,1,140.0,5
+32,69523,2,Anukul Roy,Kolkata Knight Riders,0,2,0,0,0.0,6
+33,69523,2,Ramandeep Singh,Kolkata Knight Riders,10,9,1,0,111.11,7
+34,69523,2,Sunil Narine,Kolkata Knight Riders,12,4,0,2,300.0,8
+35,69523,2,Kartik Tyagi,Kolkata Knight Riders,5,5,1,0,100.0,9
+36,69523,2,Vaibhav Arora,Kolkata Knight Riders,1,2,0,0,50.0,10
+37,69523,2,Varun Chakaravarthy,Kolkata Knight Riders,0,1,0,0,0.0,11
+38,69524,1,Sanju Samson,Chennai Super Kings,7,7,1,0,100.0,1
+39,69524,1,Ruturaj Gaikwad,Chennai Super Kings,28,22,2,0,127.27,2
+40,69524,1,Ayush Mhatre,Chennai Super Kings,73,43,6,5,169.77,3
+41,69524,1,Shivam Dube,Chennai Super Kings,45,27,5,1,166.67,4
+42,69524,1,Kartik Sharma,Chennai Super Kings,1,3,0,0,33.33,5
+43,69524,1,Sarfaraz Khan,Chennai Super Kings,32,12,6,1,266.67,6
+44,69524,1,Prashant Veer,Chennai Super Kings,6,7,1,0,85.71,7
+45,69524,2,Priyansh Arya,Punjab Kings,39,11,3,4,354.55,1
+46,69524,2,Prabhsimran Singh,Punjab Kings,43,34,6,1,126.47,2
+47,69524,2,Cooper Connolly,Punjab Kings,36,22,6,0,163.64,3
+48,69524,2,Shreyas Iyer,Punjab Kings,50,29,4,3,172.41,4
+49,69524,2,Nehal Wadhera,Punjab Kings,10,9,0,1,111.11,5
+50,69524,2,Shashank Singh,Punjab Kings,13,5,2,0,260.0,6
+51,69524,2,Marcus Stoinis,Punjab Kings,5,2,1,0,250.0,7
+52,69525,1,Ryan Rickelton,Mumbai Indians,9,11,2,0,81.82,1
+53,69525,1,Rohit Sharma,Mumbai Indians,35,26,5,1,134.62,2
+54,69525,1,Tilak Varma,Mumbai Indians,0,2,0,0,0.0,3
+55,69525,1,Suryakumar Yadav,Mumbai Indians,51,36,3,2,141.67,4
+56,69525,1,Sherfane Rutherford,Mumbai Indians,5,7,1,0,71.43,5
+57,69525,1,Naman Dhir,Mumbai Indians,28,21,2,1,133.33,6
+58,69525,1,Mitchell Santner,Mumbai Indians,18,13,2,0,138.46,7
+59,69525,1,Corbin Bosch,Mumbai Indians,11,4,2,0,275.0,8
+60,69525,2,KL Rahul,Delhi Capitals,1,3,0,0,33.33,1
+61,69525,2,Pathum Nissanka,Delhi Capitals,44,30,6,1,146.67,2
+62,69525,2,Nitish Rana,Delhi Capitals,0,3,0,0,0.0,3
+63,69525,2,Sameer Rizvi,Delhi Capitals,90,51,7,7,176.47,4
+64,69525,2,David Miller,Delhi Capitals,17,17,3,0,100.0,5
+65,69525,2,Tristan Stubbs,Delhi Capitals,3,4,0,0,75.0,6
+66,69527,1,Travis Head,Sunrisers Hyderabad,7,8,1,0,87.5,1
+67,69527,1,Abhishek Sharma,Sunrisers Hyderabad,0,2,0,0,0.0,2
+68,69527,1,Ishan Kishan,Sunrisers Hyderabad,1,4,0,0,25.0,3
+69,69527,1,Liam Livingstone,Sunrisers Hyderabad,14,20,0,1,70.0,4
+70,69527,1,Heinrich Klaasen,Sunrisers Hyderabad,62,41,5,2,151.22,5
+71,69527,1,Nitish Kumar Reddy,Sunrisers Hyderabad,56,33,3,5,169.7,6
+72,69527,1,Aniket Verma,Sunrisers Hyderabad,2,5,0,0,40.0,7
+73,69527,1,Harsh Dubey,Sunrisers Hyderabad,0,1,0,0,0.0,8
+74,69527,1,Shivang Kumar,Sunrisers Hyderabad,5,4,1,0,125.0,9
+75,69527,1,Harshal Patel,Sunrisers Hyderabad,4,2,1,0,200.0,10
+76,69527,2,Aiden Markram,Lucknow Super Giants,45,27,6,2,166.67,1
+77,69527,2,Mitchell Marsh,Lucknow Super Giants,14,12,2,0,116.67,2
+78,69527,2,Rishabh Pant,Lucknow Super Giants,68,50,9,0,136.0,3
+79,69527,2,Ayush Badoni,Lucknow Super Giants,12,9,1,0,133.33,4
+80,69527,2,Nicholas Pooran,Lucknow Super Giants,1,4,0,0,25.0,5
+81,69527,2,Abdul Samad,Lucknow Super Giants,16,12,2,0,133.33,6
+82,69527,2,Mukul Choudhary,Lucknow Super Giants,2,5,0,0,40.0,7
+83,69528,2,Sanju Samson,Chennai Super Kings,9,5,0,0,180.0,1
+84,69528,2,Ruturaj Gaikwad,Chennai Super Kings,7,3,0,0,233.0,2
+85,69528,2,Ayush Mhatre,Chennai Super Kings,1,3,0,0,33.0,3
+86,69528,2,Sarfaraz Khan,Chennai Super Kings,50,25,0,0,200.0,4
+87,69528,2,Kartik Sharma,Chennai Super Kings,6,3,0,0,200.0,5
+88,69528,2,Shivam Dube,Chennai Super Kings,18,13,0,0,138.0,6
+89,69528,2,Prashant Veer,Chennai Super Kings,43,29,0,0,148.0,7
+90,69528,2,Jamie Overton,Chennai Super Kings,37,16,0,0,231.0,8
+91,69528,2,Anshul Kamboj,Chennai Super Kings,19,12,0,0,158.0,9
+92,69528,2,Noor Ahmad,Chennai Super Kings,8,8,0,0,100.0,10
+93,69528,2,Matt Henry,Chennai Super Kings,2,3,0,0,67.0,11
+94,69532,1,Ajinkya Rahane,Kolkata Knight Riders,41,24,4,2,170.83,1
+95,69532,1,Finn Allen,Kolkata Knight Riders,9,8,2,0,112.5,2
+96,69532,1,Angkrish Raghuvanshi,Kolkata Knight Riders,45,33,5,2,136.36,3
+97,69532,1,Cameron Green,Kolkata Knight Riders,32,24,3,1,133.33,4
+98,69532,1,Rinku Singh,Kolkata Knight Riders,4,7,0,0,57.14,5
+99,69532,1,Rovman Powell,Kolkata Knight Riders,39,24,4,2,162.5,6
+100,69532,2,Mitchell Marsh,Lucknow Super Giants,15,11,1,1,136.36,1
+101,69532,2,Aiden Markram,Lucknow Super Giants,22,15,2,1,146.67,2
+102,69532,2,Rishabh Pant,Lucknow Super Giants,10,9,1,0,111.11,3
+103,69532,2,Ayush Badoni,Lucknow Super Giants,54,34,7,2,158.82,4
+104,69532,2,Nicholas Pooran,Lucknow Super Giants,13,15,0,1,86.67,5
+105,69532,2,Abdul Samad,Lucknow Super Giants,2,4,0,0,50.0,6
+106,69532,2,Mukul Choudhary,Lucknow Super Giants,54,27,2,7,200.0,7
+107,69532,2,Mohammed Shami,Lucknow Super Giants,1,3,0,0,33.33,8
+108,69532,2,Avesh Khan,Lucknow Super Giants,1,3,0,0,33.33,9
+109,69533,1,Philip Salt,Royal Challengers Bengaluru,0,1,0,0,0.0,1
+110,69533,1,Virat Kohli,Royal Challengers Bengaluru,32,16,7,0,200.0,2
+111,69533,1,Devdutt Padikkal,Royal Challengers Bengaluru,14,7,3,0,200.0,3
+112,69533,1,Rajat Patidar,Royal Challengers Bengaluru,63,40,4,4,157.5,4
+113,69533,1,Krunal Pandya,Royal Challengers Bengaluru,1,6,0,0,16.67,5
+114,69533,1,Jitesh Sharma,Royal Challengers Bengaluru,5,8,0,0,62.5,6
+115,69533,1,Tim David,Royal Challengers Bengaluru,13,9,2,0,144.44,7
+116,69533,1,Romario Shepherd,Royal Challengers Bengaluru,22,11,2,1,200.0,8
+117,69533,1,Venkatesh Iyer,Royal Challengers Bengaluru,29,15,1,2,193.33,9
+118,69533,1,Bhuvneshwar Kumar,Royal Challengers Bengaluru,9,7,1,0,128.57,10
+119,69533,2,Yashasvi Jaiswal,Rajasthan Royals,13,8,0,2,162.5,1
+120,69533,2,Vaibhav Sooryavanshi,Rajasthan Royals,78,26,8,7,300.0,2
+121,69533,2,Dhruv Jurel,Rajasthan Royals,81,43,8,3,188.37,3
+122,69533,2,Shimron Hetmyer,Rajasthan Royals,0,1,0,0,0.0,4
+123,69533,2,Riyan Parag,Rajasthan Royals,3,5,0,0,60.0,5
+124,69533,2,Ravindra Jadeja,Rajasthan Royals,24,25,1,0,96.0,6

@@ -991,3 +991,80 @@ id,collected_at,match_id,competition,venue,home_team,away_team,innings,toss_winn
 990,2026-04-11T13:30:40.440532+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,16,197,3,12.31,93,18,death,0.0,0,0.0,0,,,,,,0
 991,2026-04-11T13:35:52.098489+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,17,202,4,11.88,93,5,death,0.0,0,0.0,0,,,,,,0
 992,2026-04-11T13:40:25.424304+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,18,216,4,12.0,93,14,death,0.0,0,0.0,0,,,,,,0
+993,2026-04-11T14:06:39.395419+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,212,202,61,99,52,1
+994,2026-04-11T14:07:04.692804+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,1,3,1,3.0,3,3,powerplay,0.0,0,0.0,0,188,185,49,77,62,1
+995,2026-04-11T14:11:40.677433+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,2,20,0,10.0,20,10,powerplay,0.0,0,0.0,0,212,192,61,99,52,1
+996,2026-04-11T14:13:33.315848+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,2,11,1,5.5,11,8,powerplay,0.0,0,0.0,0,188,177,49,77,62,1
+997,2026-04-11T14:15:17.019930+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,3,27,0,9.0,27,7,powerplay,0.0,0,0.0,0,212,185,61,99,52,1
+998,2026-04-11T14:18:11.857910+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,3,24,1,8.0,24,13,powerplay,0.0,0,0.0,0,188,164,49,77,62,1
+999,2026-04-11T14:19:14.048796+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,4,40,0,10.0,40,13,powerplay,0.0,0,0.0,0,212,172,61,99,52,1
+1000,2026-04-11T14:24:26.248252+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,5,49,0,9.8,49,9,powerplay,0.0,0,0.0,0,212,163,61,99,52,1
+1001,2026-04-11T14:24:39.295247+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,4,34,1,8.5,34,10,powerplay,0.0,0,0.0,0,188,154,49,77,62,1
+1002,2026-04-11T14:28:00.021209+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,5,47,1,9.4,47,13,powerplay,0.0,0,0.0,0,188,141,49,77,62,1
+1003,2026-04-11T14:28:37.361037+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,6,61,0,10.17,61,12,powerplay,0.0,0,0.0,0,212,151,61,99,52,1
+1004,2026-04-11T14:33:14.027954+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,6,49,2,8.17,49,2,powerplay,0.0,0,0.0,0,188,139,49,77,62,1
+1005,2026-04-11T14:35:05.927827+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,7,65,1,9.29,61,4,middle,0.0,0,0.0,0,212,147,61,99,52,1
+1006,2026-04-11T14:37:37.135276+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,7,58,2,8.29,49,9,middle,0.0,0,0.0,0,188,130,49,77,62,1
+1007,2026-04-11T14:38:15.252005+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,8,73,1,9.12,61,8,middle,0.0,0,0.0,0,212,139,61,99,52,1
+1008,2026-04-11T14:43:53.445641+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,9,78,1,8.67,61,5,middle,0.0,0,0.0,0,212,134,61,99,52,1
+1009,2026-04-11T14:45:20.692082+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,8,62,3,7.75,49,4,middle,0.0,0,0.0,0,188,126,49,77,62,1
+1010,2026-04-11T14:48:40.653140+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,9,68,3,7.56,49,6,middle,0.0,0,0.0,0,188,120,49,77,62,1
+1011,2026-04-11T14:49:55.878782+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,10,89,1,8.9,61,11,middle,0.0,0,0.0,0,212,123,61,99,52,1
+1012,2026-04-11T14:53:29.890520+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,10,77,3,7.7,49,9,middle,0.0,0,0.0,0,188,111,49,77,62,1
+1013,2026-04-11T14:54:58.956006+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,11,104,1,9.45,61,15,middle,0.0,0,0.0,0,212,108,61,99,52,1
+1014,2026-04-11T14:56:52.023768+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,11,87,3,7.91,49,10,middle,0.0,0,0.0,0,188,101,49,77,62,1
+1015,2026-04-11T14:58:56.172623+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,12,120,1,10.0,61,16,middle,0.0,0,0.0,0,212,92,61,99,52,1
+1016,2026-04-11T15:04:34.876173+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,12,96,3,8.0,49,9,middle,0.0,0,0.0,0,188,92,49,77,62,1
+1017,2026-04-11T15:05:01.090866+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,13,130,1,10.0,61,11,middle,0.0,0,0.0,0,212,82,61,99,52,1
+1018,2026-04-11T15:07:55.387773+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,13,107,3,8.23,49,11,middle,0.0,0,0.0,0,188,81,49,77,62,1
+1019,2026-04-11T15:09:48.834506+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,14,141,1,10.07,61,11,middle,0.0,0,0.0,0,212,71,61,99,52,1
+1020,2026-04-11T15:14:25.082875+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,15,160,1,10.67,61,19,middle,0.0,0,0.0,0,212,52,61,99,52,1
+1021,2026-04-11T15:14:37.123712+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,14,117,3,8.36,49,10,middle,0.0,0,0.0,0,188,71,49,77,62,1
+1022,2026-04-11T15:20:18.728043+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,16,168,1,10.5,61,8,death,0.0,0,0.0,0,212,44,61,99,52,1
+1023,2026-04-11T15:20:55.156538+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,15,126,4,8.4,49,9,middle,0.0,0,0.0,0,188,62,49,77,62,1
+1024,2026-04-11T15:24:40.028121+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,16,144,4,9.0,49,18,death,0.0,0,0.0,0,188,44,49,77,62,1
+1025,2026-04-11T15:25:16.492600+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,17,173,1,10.18,61,5,death,0.0,0,0.0,0,212,39,61,99,52,1
+1026,2026-04-11T15:28:12.346294+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,17,166,4,9.76,49,22,death,0.0,0,0.0,0,188,22,49,77,62,1
+1027,2026-04-11T15:31:37.652345+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,18,184,1,10.22,61,11,death,0.0,0,0.0,0,212,28,61,99,52,1
+1028,2026-04-11T15:34:21.953557+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,18,175,4,9.72,49,9,death,0.0,0,0.0,0,188,13,49,77,62,1
+1029,2026-04-11T15:38:19.209574+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,19,197,1,10.37,61,13,death,0.0,0,0.0,0,212,15,61,99,52,1
+1030,2026-04-11T15:41:54.053005+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,19,180,5,9.47,49,5,death,0.0,0,0.0,0,188,8,49,77,62,1
+1031,2026-04-11T15:43:34.099619+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,20,212,1,10.6,61,15,death,0.0,0,0.0,0,212,0,61,99,52,1
+1032,2026-04-11T15:47:08.834246+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,20,187,7,9.35,49,3,death,0.0,0,0.0,0,188,1,49,77,62,1
+1033,2026-04-11T16:03:55.071758+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,1,8,0,8.0,8,8,powerplay,0.0,0,0.0,0,,,,,,0
+1034,2026-04-11T16:04:20.334530+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,1,18,0,18.0,18,18,powerplay,0.0,0,0.0,0,,,,,,0
+1035,2026-04-11T16:08:57.273786+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,2,27,0,13.5,27,9,powerplay,0.0,0,0.0,0,,,,,,0
+1036,2026-04-11T16:10:13.568686+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,2,24,0,12.0,24,16,powerplay,0.0,0,0.0,0,,,,,,0
+1037,2026-04-11T16:14:00.678824+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,3,36,0,12.0,36,12,powerplay,0.0,0,0.0,0,,,,,,0
+1038,2026-04-11T16:16:08.126139+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,3,36,1,12.0,36,9,powerplay,0.0,0,0.0,0,,,,,,0
+1039,2026-04-11T16:19:30.495360+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,4,52,0,13.0,52,16,powerplay,0.0,0,0.0,0,,,,,,0
+1040,2026-04-11T16:23:54.804261+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,4,52,1,13.0,48,12,powerplay,0.0,0,0.0,0,,,,,,0
+1041,2026-04-11T16:23:55.499784+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,5,61,1,12.2,61,9,powerplay,0.0,0,0.0,0,,,,,,0
+1042,2026-04-11T16:25:23.901736+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,5,64,1,12.8,60,12,powerplay,0.0,0,0.0,0,,,,,,0
+1043,2026-04-11T16:29:33.890202+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,6,76,1,12.67,71,11,powerplay,0.0,0,0.0,0,,,,,,0
+1044,2026-04-11T16:31:15.227034+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,6,66,2,11.0,66,5,powerplay,0.0,0,0.0,0,,,,,,0
+1045,2026-04-11T16:33:45.626074+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,7,87,1,12.43,71,11,middle,0.0,0,0.0,0,,,,,,0
+1046,2026-04-11T16:37:59.106267+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,8,96,2,12.0,71,9,middle,0.0,0,0.0,0,,,,,,0
+1047,2026-04-11T16:39:00.405100+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,7,73,3,10.43,66,7,middle,0.0,0,0.0,0,,,,,,0
+1048,2026-04-11T16:43:12.223938+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,8,76,4,9.5,66,3,middle,0.0,0,0.0,0,,,,,,0
+1049,2026-04-11T16:45:56.115492+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,9,98,3,10.89,71,2,middle,0.0,0,0.0,0,,,,,,0
+1050,2026-04-11T16:48:28.691330+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,10,105,3,10.5,71,6,middle,0.0,0,0.0,0,,,,,,0
+1051,2026-04-11T16:49:06.727922+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,9,82,4,9.11,66,6,middle,0.0,0,0.0,0,,,,,,0
+1052,2026-04-11T16:53:32.646281+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,11,112,4,10.18,71,7,middle,0.0,0,0.0,0,,,,,,0
+1053,2026-04-11T16:56:54.833281+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,10,91,4,9.1,66,9,middle,0.0,0,0.0,0,,,,,,0
+1054,2026-04-11T17:00:19.693464+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,12,114,5,9.5,71,2,middle,0.0,0,0.0,0,,,,,,0
+1055,2026-04-11T17:01:38.597011+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,11,106,4,9.64,66,15,middle,0.0,0,0.0,0,,,,,,0
+1056,2026-04-11T17:06:06.126234+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,13,120,5,9.23,71,6,middle,0.0,0,0.0,0,,,,,,0
+1057,2026-04-11T17:08:00.807852+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,12,121,4,10.08,66,15,middle,0.0,0,0.0,0,,,,,,0
+1058,2026-04-11T17:14:05.863856+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,14,129,5,9.21,71,9,middle,0.0,0,0.0,0,,,,,,0
+1059,2026-04-11T17:14:18.794962+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,13,130,5,10.0,66,9,middle,0.0,0,0.0,0,,,,,,0
+1060,2026-04-11T17:17:53.229544+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,15,139,5,9.27,71,9,middle,0.0,0,0.0,0,,,,,,0
+1061,2026-04-11T17:19:35.048425+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,14,138,5,9.86,66,8,middle,0.0,0,0.0,0,,,,,,0
+1062,2026-04-11T17:25:37.930015+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,16,149,6,9.31,71,9,death,0.0,0,0.0,0,,,,,,0
+1063,2026-04-11T17:30:05.163418+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,15,153,6,10.2,66,15,middle,0.0,0,0.0,0,,,,,,0
+1064,2026-04-11T17:31:33.522486+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,17,165,6,9.71,71,16,death,0.0,0,0.0,0,,,,,,0
+1065,2026-04-11T17:33:42.111482+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,16,156,7,9.75,66,3,death,0.0,0,0.0,0,,,,,,0
+1066,2026-04-11T17:36:44.580934+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,18,175,6,9.72,71,10,death,0.0,0,0.0,0,,,,,,0
+1067,2026-04-11T17:39:02.832177+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,17,171,7,10.06,66,15,death,0.0,0,0.0,0,,,,,,0
+1068,2026-04-11T17:43:13.428797+00:00,69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,2,,,19,188,6,9.89,71,13,death,0.0,0,0.0,0,,,,,,0
+1069,2026-04-11T17:44:27.729912+00:00,69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,2,,,18,181,7,10.06,66,10,death,0.0,0,0.0,0,,,,,,0

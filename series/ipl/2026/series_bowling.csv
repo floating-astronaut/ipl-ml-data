@@ -1,0 +1,90 @@
+id,fixture_id,innings,player,team,overs,runs_conceded,wickets,economy
+1,69522,1,Mukesh Kumar,Delhi Capitals,3.0,17,0,0.0
+2,69522,1,Lungi Ngidi,Delhi Capitals,3.4,27,3,0.0
+3,69522,1,Axar Patel,Delhi Capitals,3.0,17,1,0.0
+4,69522,1,T Natarajan,Delhi Capitals,4.0,29,3,0.0
+5,69522,1,Kuldeep Yadav,Delhi Capitals,4.0,31,2,0.0
+6,69522,1,Vipraj Nigam,Delhi Capitals,1.0,8,0,0.0
+7,69522,2,Mohammed Shami,Lucknow Super Giants,4.0,28,1,0.0
+8,69522,2,Prince Yadav,Lucknow Super Giants,3.0,20,2,0.0
+9,69522,2,Mohsin Khan,Lucknow Super Giants,4.0,19,1,0.0
+10,69522,2,Anrich Nortje,Lucknow Super Giants,4.0,39,0,0.0
+11,69522,2,Shahbaz Ahmed,Lucknow Super Giants,1.0,16,0,0.0
+12,69522,2,Aiden Markram,Lucknow Super Giants,1.0,13,0,0.0
+13,69522,2,Abdul Samad,Lucknow Super Giants,0.1,6,0,0.0
+14,69523,1,Vaibhav Arora,Kolkata Knight Riders,4.0,47,2,0.0
+15,69523,1,Blessing Muzarabani,Kolkata Knight Riders,4.0,41,4,0.0
+16,69523,1,Sunil Narine,Kolkata Knight Riders,4.0,39,0,0.0
+17,69523,1,Varun Chakaravarthy,Kolkata Knight Riders,2.0,31,0,0.0
+18,69523,1,Kartik Tyagi,Kolkata Knight Riders,4.0,48,1,0.0
+19,69523,1,Anukul Roy,Kolkata Knight Riders,2.0,16,1,0.0
+20,69523,2,David Payne,Sunrisers Hyderabad,2.0,35,0,0.0
+21,69523,2,Harsh Dubey,Sunrisers Hyderabad,2.0,17,1,0.0
+22,69523,2,Abhishek Sharma,Sunrisers Hyderabad,1.0,15,0,0.0
+23,69523,2,Jaydev Unadkat,Sunrisers Hyderabad,3.0,21,3,0.0
+24,69523,2,Eshan Malinga,Sunrisers Hyderabad,2.0,14,2,0.0
+25,69523,2,Shivang Kumar,Sunrisers Hyderabad,4.0,41,0,0.0
+26,69523,2,Nitish Kumar Reddy,Sunrisers Hyderabad,2.0,17,2,0.0
+27,69524,1,Arshdeep Singh,Punjab Kings,4.0,41,0,0.0
+28,69524,1,Xavier Bartlett,Punjab Kings,4.0,48,1,0.0
+29,69524,1,Marco Jansen,Punjab Kings,4.0,43,1,0.0
+30,69524,1,Vijaykumar Vyshak,Punjab Kings,4.0,38,2,0.0
+31,69524,1,Yuzvendra Chahal,Punjab Kings,3.0,21,1,0.0
+32,69524,1,Marcus Stoinis,Punjab Kings,1.0,17,0,0.0
+33,69524,2,Khaleel Ahmed,Chennai Super Kings,3.0,28,0,0.0
+34,69524,2,Matt Henry,Chennai Super Kings,4.0,54,2,0.0
+35,69524,2,Anshul Kamboj,Chennai Super Kings,3.2,38,2,0.0
+36,69524,2,Noor Ahmad,Chennai Super Kings,4.0,38,0,0.0
+37,69524,2,Rahul Chahar,Chennai Super Kings,4.0,46,0,0.0
+38,69525,1,Mukesh Kumar,Delhi Capitals,3.0,26,2,0.0
+39,69525,1,Lungi Ngidi,Delhi Capitals,4.0,34,1,0.0
+40,69525,1,Axar Patel,Delhi Capitals,4.0,22,1,0.0
+41,69525,1,Vipraj Nigam,Delhi Capitals,3.0,24,1,0.0
+42,69525,1,Kuldeep Yadav,Delhi Capitals,3.0,31,0,0.0
+43,69525,1,T Natarajan,Delhi Capitals,3.0,24,1,0.0
+44,69525,2,Deepak Chahar,Mumbai Indians,3.0,20,1,0.0
+45,69525,2,Jasprit Bumrah,Mumbai Indians,4.0,21,0,0.0
+46,69525,2,Mitchell Santner,Mumbai Indians,3.0,22,1,0.0
+47,69525,2,Shardul Thakur,Mumbai Indians,3.0,41,0,0.0
+48,69525,2,Mayank Markande,Mumbai Indians,2.0,20,0,0.0
+49,69525,2,Corbin Bosch,Mumbai Indians,3.0,35,1,0.0
+50,69527,1,Mohammed Shami,Lucknow Super Giants,4.0,9,2,0.0
+51,69527,1,Digvesh Singh Rathi,Lucknow Super Giants,4.0,46,1,0.0
+52,69527,1,Prince Yadav,Lucknow Super Giants,4.0,34,2,0.0
+53,69527,1,Manimaran Siddharth,Lucknow Super Giants,4.0,29,1,0.0
+54,69527,1,Avesh Khan,Lucknow Super Giants,4.0,36,2,0.0
+55,69527,2,Harsh Dubey,Sunrisers Hyderabad,4.0,18,2,0.0
+56,69527,2,Nitish Kumar Reddy,Sunrisers Hyderabad,1.0,14,0,0.0
+57,69527,2,Jaydev Unadkat,Sunrisers Hyderabad,3.5,50,0,0.0
+58,69527,2,Eshan Malinga,Sunrisers Hyderabad,4.0,30,1,0.0
+59,69527,2,Harshal Patel,Sunrisers Hyderabad,3.0,16,0,0.0
+60,69527,2,Shivang Kumar,Sunrisers Hyderabad,4.0,30,1,0.0
+61,69528,2,Jacob Duffy,Royal Challengers Bengaluru,4.0,58,2,14.5
+62,69528,2,Bhuvneshwar Kumar,Royal Challengers Bengaluru,4.0,41,3,10.25
+63,69528,2,Abhinandan Singh,Royal Challengers Bengaluru,3.4,30,2,8.18
+64,69528,2,Krunal Pandya,Royal Challengers Bengaluru,3.0,36,2,12.0
+65,69528,2,Suyash Sharma,Royal Challengers Bengaluru,4.0,21,1,5.25
+66,69528,2,Romario Shepherd,Royal Challengers Bengaluru,1.0,19,0,19.0
+67,69532,1,Mohammed Shami,Lucknow Super Giants,4.0,27,0,0.0
+68,69532,1,Prince Yadav,Lucknow Super Giants,4.0,47,1,0.0
+69,69532,1,Manimaran Siddharth,Lucknow Super Giants,4.0,34,1,0.0
+70,69532,1,Digvesh Singh Rathi,Lucknow Super Giants,4.0,25,1,0.0
+71,69532,1,Avesh Khan,Lucknow Super Giants,4.0,44,1,0.0
+72,69532,2,Vaibhav Arora,Kolkata Knight Riders,4.0,38,2,0.0
+73,69532,2,Anukul Roy,Kolkata Knight Riders,4.0,32,2,0.0
+74,69532,2,Navdeep Saini,Kolkata Knight Riders,3.0,37,0,0.0
+75,69532,2,Sunil Narine,Kolkata Knight Riders,4.0,13,1,0.0
+76,69532,2,Kartik Tyagi,Kolkata Knight Riders,3.0,31,1,0.0
+77,69532,2,Cameron Green,Kolkata Knight Riders,2.0,28,1,0.0
+78,69533,1,Jofra Archer,Rajasthan Royals,3.0,33,2,0.0
+79,69533,1,Nandre Burger,Rajasthan Royals,3.0,32,0,0.0
+80,69533,1,Sandeep Sharma,Rajasthan Royals,4.0,47,1,0.0
+81,69533,1,Ravi Bishnoi,Rajasthan Royals,4.0,32,2,0.0
+82,69533,1,Ravindra Jadeja,Rajasthan Royals,2.0,14,1,0.0
+83,69533,1,Brijesh Sharma,Rajasthan Royals,4.0,37,2,0.0
+84,69533,2,Bhuvneshwar Kumar,Royal Challengers Bengaluru,4.0,37,0,0.0
+85,69533,2,Josh Hazlewood,Royal Challengers Bengaluru,4.0,44,2,0.0
+86,69533,2,Abhinandan Singh,Royal Challengers Bengaluru,3.0,54,0,0.0
+87,69533,2,Krunal Pandya,Royal Challengers Bengaluru,4.0,30,2,0.0
+88,69533,2,Tim David,Royal Challengers Bengaluru,1.0,18,0,0.0
+89,69533,2,Romario Shepherd,Royal Challengers Bengaluru,2.0,18,0,0.0

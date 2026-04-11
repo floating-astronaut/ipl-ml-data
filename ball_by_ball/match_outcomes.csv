@@ -12,6 +12,7 @@ match_id,competition,venue,home_team,away_team,innings,toss_winner,toss_decision
 69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,100,28,52,12,,2026-04-09T11:19:33.589084+00:00
 69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,246,66,104,75,,2026-04-09T15:51:27.190166+00:00
 69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,173,49,77,45,,2026-04-11T11:30:05.507723+00:00
+69493,psl,National Stadium,Karachi Kings,Hyderabad Kingsmen,1,,,188,49,77,62,,2026-04-11T16:02:13.059718+00:00
 69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,220,77,88,53,,2026-03-29T16:01:12.519868+00:00
 69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,127,36,51,31,,2026-03-30T16:06:03.882060+00:00
 69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,162,54,72,34,,2026-03-31T16:11:50.760887+00:00
@@ -27,3 +28,4 @@ match_id,competition,venue,home_team,away_team,innings,toss_winner,toss_decision
 69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,181,55,58,64,,2026-04-09T16:02:17.498813+00:00
 69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,201,56,77,62,,2026-04-10T17:02:19.494241+00:00
 69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,219,104,71,43,,2026-04-11T12:04:58.968393+00:00
+69535,ipl,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,1,,,212,61,99,52,,2026-04-11T16:00:07.496078+00:00
