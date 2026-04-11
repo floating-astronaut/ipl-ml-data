@@ -1,0 +1,993 @@
+id,collected_at,match_id,competition,venue,home_team,away_team,innings,toss_winner,toss_decision,over_num,score,wickets,run_rate,pp_runs,last_over_runs,phase,striker_sr,striker_runs,bowler_econ,bowler_wickets,actual_innings_total,actual_runs_from_here,actual_pp_total,actual_7_15_total,actual_death_total,label_filled
+1,2026-03-29T09:33:52.456888+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,1,11,0,11.0,11,11,powerplay,0.0,0,0.0,0,174,163,45,76,51,1
+2,2026-03-29T09:38:53.981317+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,2,21,1,10.5,21,10,powerplay,0.0,0,0.0,0,174,153,45,76,51,1
+3,2026-03-29T09:44:42.020843+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,3,23,1,7.67,23,2,powerplay,0.0,0,0.0,0,174,151,45,76,51,1
+4,2026-03-29T09:51:06.585399+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,4,27,2,6.75,27,4,powerplay,0.0,0,0.0,0,174,147,45,76,51,1
+5,2026-03-29T09:54:35.536991+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,5,30,2,6.0,30,3,powerplay,0.0,0,0.0,0,174,144,45,76,51,1
+6,2026-03-29T09:59:28.801012+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,6,41,2,6.83,41,11,powerplay,0.0,0,0.0,0,174,133,45,76,51,1
+7,2026-03-29T10:04:00.238648+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,7,50,2,7.14,45,5,middle,0.0,0,0.0,0,174,124,45,76,51,1
+8,2026-03-29T10:07:08.430914+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,8,57,2,7.12,45,7,middle,0.0,0,0.0,0,174,117,45,76,51,1
+9,2026-03-29T10:10:47.453350+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,9,65,2,7.22,45,8,middle,0.0,0,0.0,0,174,109,45,76,51,1
+10,2026-03-29T10:15:52.434773+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,10,78,2,7.8,45,13,middle,0.0,0,0.0,0,174,96,45,76,51,1
+11,2026-03-29T10:24:01.660029+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,11,83,2,7.55,45,5,middle,0.0,0,0.0,0,174,91,45,76,51,1
+12,2026-03-29T10:28:38.032941+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,12,101,2,8.42,45,18,middle,0.0,0,0.0,0,174,73,45,76,51,1
+13,2026-03-29T10:32:59.933461+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,13,111,2,8.54,45,10,middle,0.0,0,0.0,0,174,63,45,76,51,1
+14,2026-03-29T10:39:41.811975+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,14,117,3,8.36,45,6,middle,0.0,0,0.0,0,174,57,45,76,51,1
+15,2026-03-29T10:49:47.203531+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,15,123,5,8.2,45,5,middle,0.0,0,0.0,0,174,51,45,76,51,1
+16,2026-03-29T10:58:01.811623+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,17,138,6,8.12,45,9,death,0.0,0,0.0,0,174,36,45,76,51,1
+17,2026-03-29T11:02:09.272647+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,18,146,6,8.11,45,8,death,0.0,0,0.0,0,174,28,45,76,51,1
+18,2026-03-29T11:10:02.960350+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,19,165,6,8.68,45,19,death,0.0,0,0.0,0,174,9,45,76,51,1
+19,2026-03-29T11:17:18.501530+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,1,,,20,174,8,8.7,45,10,death,0.0,0,0.0,0,174,0,45,76,51,1
+20,2026-03-29T11:38:05.235207+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,1,17,1,17.0,17,17,powerplay,0.0,0,0.0,0,,,,,,0
+21,2026-03-29T11:42:57.476414+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,2,21,2,10.5,21,4,powerplay,0.0,0,0.0,0,,,,,,0
+22,2026-03-29T11:49:19.383066+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,3,25,2,8.33,25,4,powerplay,0.0,0,0.0,0,,,,,,0
+23,2026-03-29T11:49:25.672339+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,3,25,2,8.33,25,4,powerplay,0.0,0,0.0,0,,,,,,0
+24,2026-03-29T11:56:50.954395+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,5,35,2,7.0,35,8,powerplay,0.0,0,0.0,0,,,,,,0
+25,2026-03-29T12:01:32.792534+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,6,37,3,6.17,37,2,powerplay,0.0,0,0.0,0,,,,,,0
+26,2026-03-29T12:07:02.227318+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,7,41,3,5.86,37,4,middle,0.0,0,0.0,0,,,,,,0
+27,2026-03-29T12:12:44.304408+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,8,47,3,5.88,37,5,middle,0.0,0,0.0,0,,,,,,0
+28,2026-03-29T12:17:05.955747+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,9,51,4,5.67,37,4,middle,0.0,0,0.0,0,,,,,,0
+29,2026-03-29T12:21:42.973101+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,10,61,5,6.1,37,10,middle,0.0,0,0.0,0,,,,,,0
+30,2026-03-29T12:25:24.275166+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,11,72,5,6.55,37,11,middle,0.0,0,0.0,0,,,,,,0
+31,2026-03-29T12:28:28.149687+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,12,79,5,6.58,37,7,middle,0.0,0,0.0,0,,,,,,0
+32,2026-03-29T12:33:10.556829+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,13,93,5,7.15,37,14,middle,0.0,0,0.0,0,,,,,,0
+33,2026-03-29T12:36:29.052101+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,14,100,5,7.14,37,7,middle,0.0,0,0.0,0,,,,,,0
+34,2026-03-29T12:42:42.311438+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,15,105,6,7.0,37,5,middle,0.0,0,0.0,0,,,,,,0
+35,2026-03-29T12:48:14.328791+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,16,109,6,6.81,37,4,death,0.0,0,0.0,0,,,,,,0
+36,2026-03-29T12:53:38.101694+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,17,119,6,7.0,37,10,death,0.0,0,0.0,0,,,,,,0
+37,2026-03-29T12:58:02.083158+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,18,128,6,7.11,37,9,death,0.0,0,0.0,0,,,,,,0
+38,2026-03-29T13:00:52.832831+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,18,129,8,7.17,37,10,death,0.0,0,0.0,0,,,,,,0
+39,2026-03-29T13:03:59.316867+00:00,69478,psl,Gaddafi Stadium,Hyderabad Kingsmen,Quetta Gladiators,2,,,19,130,8,6.84,37,1,death,0.0,0,0.0,0,,,,,,0
+40,2026-03-29T14:04:54.262269+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,220,210,77,88,53,1
+41,2026-03-29T14:05:37.981096+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,1,5,1,5.0,5,5,powerplay,0.0,0,0.0,0,128,123,42,64,19,1
+42,2026-03-29T14:09:39.963530+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,2,14,0,7.0,14,4,powerplay,0.0,0,0.0,0,220,206,77,88,53,1
+43,2026-03-29T14:12:59.361579+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,2,15,1,7.5,15,10,powerplay,0.0,0,0.0,0,128,113,42,64,19,1
+44,2026-03-29T14:13:42.793735+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,3,31,0,10.33,31,17,powerplay,0.0,0,0.0,0,220,189,77,88,53,1
+45,2026-03-29T14:18:02.057359+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,3,27,1,9.0,27,12,powerplay,0.0,0,0.0,0,128,101,42,64,19,1
+46,2026-03-29T14:23:46.530352+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,4,28,2,7.0,28,1,powerplay,0.0,0,0.0,0,128,100,42,64,19,1
+47,2026-03-29T14:24:12.381084+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,5,68,0,13.6,67,11,powerplay,0.0,0,0.0,0,220,152,77,88,53,1
+48,2026-03-29T14:26:37.345410+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,5,36,2,7.2,36,8,powerplay,0.0,0,0.0,0,128,92,42,64,19,1
+49,2026-03-29T14:29:34.647689+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,6,78,1,13.0,77,10,powerplay,0.0,0,0.0,0,220,142,77,88,53,1
+50,2026-03-29T14:31:15.678600+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,6,42,2,7.0,42,6,powerplay,0.0,0,0.0,0,128,86,42,64,19,1
+51,2026-03-29T14:34:35.808823+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,7,94,1,13.43,77,16,middle,0.0,0,0.0,0,220,126,77,88,53,1
+52,2026-03-29T14:35:09.041494+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,7,52,2,7.43,42,10,middle,0.0,0,0.0,0,128,76,42,64,19,1
+53,2026-03-29T14:38:58.033700+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,8,56,3,7.0,42,3,middle,0.0,0,0.0,0,128,72,42,64,19,1
+54,2026-03-29T14:40:38.137346+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,8,101,1,12.62,77,7,middle,0.0,0,0.0,0,220,119,77,88,53,1
+55,2026-03-29T14:46:18.887145+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,9,65,4,7.22,42,9,middle,0.0,0,0.0,0,128,63,42,64,19,1
+56,2026-03-29T14:46:35.652059+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,9,110,2,12.22,77,9,middle,0.0,0,0.0,0,220,110,77,88,53,1
+57,2026-03-29T14:50:12.513913+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,10,69,4,6.9,42,4,middle,0.0,0,0.0,0,128,59,42,64,19,1
+58,2026-03-29T14:50:42.276473+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,10,120,2,12.0,77,10,middle,0.0,0,0.0,0,220,100,77,88,53,1
+59,2026-03-29T14:53:36.966861+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,11,78,4,7.09,42,9,middle,0.0,0,0.0,0,128,50,42,64,19,1
+60,2026-03-29T14:55:11.342143+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,11,131,2,11.91,77,10,middle,0.0,0,0.0,0,220,89,77,88,53,1
+61,2026-03-29T14:59:21.702215+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,12,136,2,11.33,77,5,middle,0.0,0,0.0,0,220,84,77,88,53,1
+62,2026-03-29T14:59:30.060505+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,12,93,4,7.75,42,15,middle,0.0,0,0.0,0,128,35,42,64,19,1
+63,2026-03-29T15:02:14.672926+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,13,100,4,7.69,42,6,middle,0.0,0,0.0,0,128,28,42,64,19,1
+64,2026-03-29T15:04:09.440514+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,13,144,2,11.08,77,8,middle,0.0,0,0.0,0,220,76,77,88,53,1
+65,2026-03-29T15:08:54.519554+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,14,104,4,7.43,42,4,middle,0.0,0,0.0,0,128,24,42,64,19,1
+66,2026-03-29T15:12:28.898384+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,14,150,3,10.71,77,6,middle,0.0,0,0.0,0,220,70,77,88,53,1
+67,2026-03-29T15:15:30.204457+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,15,106,5,7.07,42,2,middle,0.0,0,0.0,0,128,22,42,64,19,1
+68,2026-03-29T15:17:41.657758+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,15,167,3,11.13,77,17,middle,0.0,0,0.0,0,220,53,77,88,53,1
+69,2026-03-29T15:22:59.281811+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,16,177,3,11.06,77,10,death,0.0,0,0.0,0,220,43,77,88,53,1
+70,2026-03-29T15:26:04.333851+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,17,119,6,7.0,42,1,death,0.0,0,0.0,0,128,9,42,64,19,1
+71,2026-03-29T15:27:56.944158+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,17,191,3,11.24,77,14,death,0.0,0,0.0,0,220,29,77,88,53,1
+72,2026-03-29T15:31:03.005776+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,1,,,18,119,7,6.61,42,0,death,0.0,0,0.0,0,128,9,42,64,19,1
+73,2026-03-29T15:32:01.962994+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,18,199,3,11.06,77,8,death,0.0,0,0.0,0,220,21,77,88,53,1
+74,2026-03-29T15:38:18.960746+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,1,,,19,210,4,11.05,77,11,death,0.0,0,0.0,0,220,10,77,88,53,1
+75,2026-03-29T16:01:32.400537+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,1,2,0,2.0,2,2,powerplay,0.0,0,0.0,0,,,,,,0
+76,2026-03-29T16:03:59.894270+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,1,6,0,6.0,5,5,powerplay,0.0,0,0.0,0,,,,,,0
+77,2026-03-29T16:06:19.015870+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,2,8,0,4.0,8,6,powerplay,0.0,0,0.0,0,,,,,,0
+78,2026-03-29T16:12:24.064734+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,3,11,2,3.67,11,3,powerplay,0.0,0,0.0,0,,,,,,0
+79,2026-03-29T16:14:16.498189+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,3,34,0,11.33,33,19,powerplay,0.0,0,0.0,0,,,,,,0
+80,2026-03-29T16:17:25.855342+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,4,11,2,2.75,11,0,powerplay,0.0,0,0.0,0,,,,,,0
+81,2026-03-29T16:21:23.626099+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,5,18,2,3.6,18,7,powerplay,0.0,0,0.0,0,,,,,,0
+82,2026-03-29T16:26:53.829990+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,5,64,0,12.8,63,15,powerplay,0.0,0,0.0,0,,,,,,0
+83,2026-03-29T16:30:08.128844+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,6,33,2,5.5,26,8,powerplay,0.0,0,0.0,0,,,,,,0
+84,2026-03-29T16:32:12.550659+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,7,38,2,5.43,27,11,middle,0.0,0,0.0,0,,,,,,0
+85,2026-03-29T16:32:21.456280+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,6,80,0,13.33,79,16,powerplay,0.0,0,0.0,0,,,,,,0
+86,2026-03-29T16:37:01.701663+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,8,39,3,4.88,27,1,middle,0.0,0,0.0,0,,,,,,0
+87,2026-03-29T16:37:52.551944+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,7,88,0,12.57,79,8,middle,0.0,0,0.0,0,,,,,,0
+88,2026-03-29T16:41:44.889040+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,8,96,0,12.0,79,8,middle,0.0,0,0.0,0,,,,,,0
+89,2026-03-29T16:42:02.296426+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,9,44,3,4.89,27,5,middle,0.0,0,0.0,0,,,,,,0
+90,2026-03-29T16:45:02.833600+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,9,110,0,12.22,79,14,middle,0.0,0,0.0,0,,,,,,0
+91,2026-03-29T16:46:19.504043+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,10,50,3,5.0,27,6,middle,0.0,0,0.0,0,,,,,,0
+92,2026-03-29T16:51:33.437755+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,10,122,0,12.2,79,12,middle,0.0,0,0.0,0,,,,,,0
+93,2026-03-29T16:54:02.381135+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,12,58,3,4.83,27,3,middle,0.0,0,0.0,0,,,,,,0
+94,2026-03-29T16:55:11.916410+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,11,135,0,12.27,79,13,middle,0.0,0,0.0,0,,,,,,0
+95,2026-03-29T16:59:03.573364+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,13,76,3,5.85,27,18,middle,0.0,0,0.0,0,,,,,,0
+96,2026-03-29T17:03:24.701237+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,14,82,3,5.86,27,6,middle,0.0,0,0.0,0,,,,,,0
+97,2026-03-29T17:03:32.851400+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,12,147,2,12.25,79,12,middle,0.0,0,0.0,0,,,,,,0
+98,2026-03-29T17:07:06.038629+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,13,162,1,12.46,79,11,middle,0.0,0,0.0,0,,,,,,0
+99,2026-03-29T17:10:38.464617+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,14,175,1,12.5,79,12,middle,0.0,0,0.0,0,,,,,,0
+100,2026-03-29T17:16:13.226341+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,16,93,5,5.81,27,5,death,0.0,0,0.0,0,,,,,,0
+101,2026-03-29T17:17:03.998987+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,15,183,2,12.2,79,8,middle,0.0,0,0.0,0,,,,,,0
+102,2026-03-29T17:20:56.907260+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,17,98,5,5.76,27,5,death,0.0,0,0.0,0,,,,,,0
+103,2026-03-29T17:25:14.821428+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,16,193,3,12.06,79,10,death,0.0,0,0.0,0,,,,,,0
+104,2026-03-29T17:25:47.684484+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,18,106,5,5.89,27,7,death,0.0,0,0.0,0,,,,,,0
+105,2026-03-29T17:30:03.430399+00:00,69479,psl,Gaddafi Stadium,Lahore Qalandars,Karachi Kings,2,,,19,115,5,6.05,27,9,death,0.0,0,0.0,0,,,,,,0
+106,2026-03-29T17:31:33.355223+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,17,201,3,11.82,79,7,death,0.0,0,0.0,0,,,,,,0
+107,2026-03-29T17:36:57.760451+00:00,69519,ipl,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,2,,,18,212,3,11.78,79,11,death,0.0,0,0.0,0,,,,,,0
+108,2026-03-30T14:04:44.295438+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,1,7,0,7.0,6,6,powerplay,0.0,0,0.0,0,127,120,36,51,31,1
+109,2026-03-30T14:10:42.706692+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,2,14,1,7.0,9,3,powerplay,0.0,0,0.0,0,127,113,36,51,31,1
+110,2026-03-30T14:17:07.518113+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,3,19,2,6.33,14,5,powerplay,0.0,0,0.0,0,127,108,36,51,31,1
+111,2026-03-30T14:27:35.920333+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,4,30,3,7.5,25,11,powerplay,0.0,0,0.0,0,127,97,36,51,31,1
+112,2026-03-30T14:32:54.278435+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,5,36,3,7.2,31,6,powerplay,0.0,0,0.0,0,127,91,36,51,31,1
+113,2026-03-30T14:42:15.761778+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,7,51,4,7.29,36,10,middle,0.0,0,0.0,0,127,76,36,51,31,1
+114,2026-03-30T14:48:59.435353+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,8,57,6,7.12,36,6,middle,0.0,0,0.0,0,127,70,36,51,31,1
+115,2026-03-30T14:52:43.658360+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,9,62,6,6.89,36,5,middle,0.0,0,0.0,0,127,65,36,51,31,1
+116,2026-03-30T14:57:38.959745+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,10,70,6,7.0,36,8,middle,0.0,0,0.0,0,127,57,36,51,31,1
+117,2026-03-30T15:05:58.231366+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,11,74,7,6.73,36,4,middle,0.0,0,0.0,0,127,53,36,51,31,1
+118,2026-03-30T15:15:32.543412+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,13,82,8,6.31,36,3,middle,0.0,0,0.0,0,127,45,36,51,31,1
+119,2026-03-30T15:21:15.568214+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,14,86,8,6.14,36,4,middle,0.0,0,0.0,0,127,41,36,51,31,1
+120,2026-03-30T15:25:38.509281+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,15,93,8,6.2,36,7,middle,0.0,0,0.0,0,127,34,36,51,31,1
+121,2026-03-30T15:32:17.628805+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,16,94,9,5.88,36,1,death,0.0,0,0.0,0,127,33,36,51,31,1
+122,2026-03-30T15:36:53.364173+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,17,99,9,5.82,36,5,death,0.0,0,0.0,0,127,28,36,51,31,1
+123,2026-03-30T15:42:05.628414+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,18,108,9,6.0,36,8,death,0.0,0,0.0,0,127,19,36,51,31,1
+124,2026-03-30T15:47:06.660237+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,1,,,19,118,9,6.21,36,8,death,0.0,0,0.0,0,127,9,36,51,31,1
+125,2026-03-30T16:09:40.078479+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,1,18,0,18.0,18,18,powerplay,0.0,0,0.0,0,,,,,,0
+126,2026-03-30T16:16:16.523524+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,2,24,0,12.0,23,5,powerplay,0.0,0,0.0,0,,,,,,0
+127,2026-03-30T16:20:28.316935+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,3,34,0,11.33,33,10,powerplay,0.0,0,0.0,0,,,,,,0
+128,2026-03-30T16:25:45.229340+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,4,40,0,10.0,39,6,powerplay,0.0,0,0.0,0,,,,,,0
+129,2026-03-30T16:29:07.392153+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,5,55,0,11.0,54,15,powerplay,0.0,0,0.0,0,,,,,,0
+130,2026-03-30T16:33:59.771127+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,6,74,0,12.33,69,15,powerplay,0.0,0,0.0,0,,,,,,0
+131,2026-03-30T16:39:41.675727+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,7,77,1,11.0,69,3,middle,0.0,0,0.0,0,,,,,,0
+132,2026-03-30T16:43:43.165670+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,8,91,1,11.38,69,14,middle,0.0,0,0.0,0,,,,,,0
+133,2026-03-30T16:51:35.216347+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,9,100,2,11.11,69,9,middle,0.0,0,0.0,0,,,,,,0
+134,2026-03-30T16:56:51.715770+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,10,106,2,10.6,69,6,middle,0.0,0,0.0,0,,,,,,0
+135,2026-03-30T17:00:05.051049+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,11,115,2,10.45,69,9,middle,0.0,0,0.0,0,,,,,,0
+136,2026-03-30T17:07:00.320542+00:00,69520,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Chennai Super Kings,2,,,12,127,2,10.58,69,12,middle,0.0,0,0.0,0,,,,,,0
+137,2026-03-31T14:04:35.692749+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,1,9,0,9.0,9,9,powerplay,0.0,0,0.0,0,162,153,54,72,34,1
+138,2026-03-31T14:09:36.021939+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,2,23,0,11.5,23,14,powerplay,0.0,0,0.0,0,162,139,54,72,34,1
+139,2026-03-31T14:14:51.561393+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,3,35,0,11.67,35,12,powerplay,0.0,0,0.0,0,162,127,54,72,34,1
+140,2026-03-31T14:20:56.682455+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,4,37,1,9.25,37,2,powerplay,0.0,0,0.0,0,162,125,54,72,34,1
+141,2026-03-31T14:25:09.442801+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,5,47,1,9.4,47,10,powerplay,0.0,0,0.0,0,162,115,54,72,34,1
+142,2026-03-31T14:29:59.569519+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,6,54,1,9.0,54,7,powerplay,0.0,0,0.0,0,162,108,54,72,34,1
+143,2026-03-31T14:36:38.874335+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,7,65,1,9.29,54,10,middle,0.0,0,0.0,0,162,97,54,72,34,1
+144,2026-03-31T14:40:23.832326+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,8,70,1,8.75,54,4,middle,0.0,0,0.0,0,162,92,54,72,34,1
+145,2026-03-31T14:45:12.892762+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,9,76,1,8.44,54,6,middle,0.0,0,0.0,0,162,86,54,72,34,1
+146,2026-03-31T14:51:00.390698+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,10,84,2,8.4,54,8,middle,0.0,0,0.0,0,162,78,54,72,34,1
+147,2026-03-31T14:55:38.510378+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,11,89,2,8.09,54,5,middle,0.0,0,0.0,0,162,73,54,72,34,1
+148,2026-03-31T14:59:38.286193+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,12,102,2,8.5,54,13,middle,0.0,0,0.0,0,162,60,54,72,34,1
+149,2026-03-31T15:04:52.747085+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,13,111,2,8.54,54,9,middle,0.0,0,0.0,0,162,51,54,72,34,1
+150,2026-03-31T15:10:31.852596+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,14,119,3,8.5,54,8,middle,0.0,0,0.0,0,162,43,54,72,34,1
+151,2026-03-31T15:16:48.769278+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,15,128,3,8.53,54,9,middle,0.0,0,0.0,0,162,34,54,72,34,1
+152,2026-03-31T15:23:44.422668+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,16,131,4,8.19,54,3,death,0.0,0,0.0,0,162,31,54,72,34,1
+153,2026-03-31T15:29:03.169627+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,17,137,4,8.06,54,6,death,0.0,0,0.0,0,162,25,54,72,34,1
+154,2026-03-31T15:33:38.060463+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,18,144,4,8.0,54,7,death,0.0,0,0.0,0,162,18,54,72,34,1
+155,2026-03-31T15:56:36.399428+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,1,,,20,163,6,8.15,54,13,death,0.0,0,0.0,0,162,0,54,72,34,1
+156,2026-03-31T16:15:00.466255+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,1,7,0,7.0,7,7,powerplay,0.0,0,0.0,0,,,,,,0
+157,2026-03-31T16:19:34.409659+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,2,10,1,5.0,10,3,powerplay,0.0,0,0.0,0,,,,,,0
+158,2026-03-31T16:24:41.676106+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,3,18,1,6.0,18,8,powerplay,0.0,0,0.0,0,,,,,,0
+159,2026-03-31T16:29:12.738073+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,4,37,1,9.25,37,19,powerplay,0.0,0,0.0,0,,,,,,0
+160,2026-03-31T16:35:08.261922+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,5,50,1,10.0,50,13,powerplay,0.0,0,0.0,0,,,,,,0
+161,2026-03-31T16:39:27.925626+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,6,55,1,9.17,55,5,powerplay,0.0,0,0.0,0,,,,,,0
+162,2026-03-31T16:45:21.929344+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,7,64,1,9.14,55,9,middle,0.0,0,0.0,0,,,,,,0
+163,2026-03-31T16:48:49.887645+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,8,72,1,9.0,55,8,middle,0.0,0,0.0,0,,,,,,0
+164,2026-03-31T16:52:07.437432+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,9,81,1,9.0,55,9,middle,0.0,0,0.0,0,,,,,,0
+165,2026-03-31T16:56:24.610295+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,10,86,2,8.6,55,5,middle,0.0,0,0.0,0,,,,,,0
+166,2026-03-31T17:00:22.969424+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,11,99,2,9.0,55,13,middle,0.0,0,0.0,0,,,,,,0
+167,2026-03-31T17:07:17.177373+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,12,110,2,9.17,55,11,middle,0.0,0,0.0,0,,,,,,0
+168,2026-03-31T17:13:13.052604+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,13,113,3,8.69,55,3,middle,0.0,0,0.0,0,,,,,,0
+169,2026-03-31T17:17:33.313184+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,14,118,4,8.43,55,5,middle,0.0,0,0.0,0,,,,,,0
+170,2026-03-31T17:26:09.952764+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,15,119,6,7.93,55,1,middle,0.0,0,0.0,0,,,,,,0
+171,2026-03-31T17:31:00.068065+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,16,133,6,8.31,55,12,death,0.0,0,0.0,0,,,,,,0
+172,2026-03-31T17:50:19.907020+00:00,69521,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,2,,,19,161,7,8.47,55,14,death,0.0,0,0.0,0,,,,,,0
+173,2026-04-01T14:04:47.271791+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,1,15,0,15.0,15,15,powerplay,0.0,0,0.0,0,225,210,74,90,61,1
+174,2026-04-01T14:05:49.863166+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,1,6,0,6.0,6,6,powerplay,0.0,0,0.0,0,141,135,40,69,20,1
+175,2026-04-01T14:08:19.023476+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,2,24,0,12.0,24,9,powerplay,0.0,0,0.0,0,225,201,74,90,61,1
+176,2026-04-01T14:10:59.700999+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,2,16,0,8.0,16,10,powerplay,0.0,0,0.0,0,141,125,40,69,20,1
+177,2026-04-01T14:13:17.633299+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,3,33,0,11.0,33,9,powerplay,0.0,0,0.0,0,225,192,74,90,61,1
+178,2026-04-01T14:16:39.800736+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,3,19,1,6.33,19,3,powerplay,0.0,0,0.0,0,141,122,40,69,20,1
+179,2026-04-01T14:18:20.559879+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,4,50,0,12.5,50,17,powerplay,0.0,0,0.0,0,225,175,74,90,61,1
+180,2026-04-01T14:20:51.025402+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,4,25,1,6.25,25,6,powerplay,0.0,0,0.0,0,141,116,40,69,20,1
+181,2026-04-01T14:23:11.346021+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,5,59,0,11.8,59,9,powerplay,0.0,0,0.0,0,225,166,74,90,61,1
+182,2026-04-01T14:26:47.787118+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,5,37,1,7.4,33,8,powerplay,0.0,0,0.0,0,141,104,40,69,20,1
+183,2026-04-01T14:28:52.149539+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,6,74,1,12.33,74,15,powerplay,0.0,0,0.0,0,225,151,74,90,61,1
+184,2026-04-01T14:31:34.676467+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,6,48,2,8.0,40,7,powerplay,0.0,0,0.0,0,141,93,40,69,20,1
+185,2026-04-01T14:32:37.760882+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,7,85,1,12.14,74,11,middle,0.0,0,0.0,0,225,140,74,90,61,1
+186,2026-04-01T14:37:01.411877+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,7,50,3,7.14,40,2,middle,0.0,0,0.0,0,141,91,40,69,20,1
+187,2026-04-01T14:37:38.303590+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,8,90,2,11.25,74,5,middle,0.0,0,0.0,0,225,135,74,90,61,1
+188,2026-04-01T14:40:22.076161+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,9,98,2,10.89,74,8,middle,0.0,0,0.0,0,225,127,74,90,61,1
+189,2026-04-01T14:41:12.896528+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,8,57,3,7.12,40,7,middle,0.0,0,0.0,0,141,84,40,69,20,1
+190,2026-04-01T14:45:38.710246+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,10,106,3,10.6,74,8,middle,0.0,0,0.0,0,225,119,74,90,61,1
+191,2026-04-01T14:49:00.275311+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,11,126,3,11.45,74,20,middle,0.0,0,0.0,0,225,99,74,90,61,1
+192,2026-04-01T14:49:25.691361+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,9,65,4,7.22,40,8,middle,0.0,0,0.0,0,141,76,40,69,20,1
+193,2026-04-01T14:56:20.885419+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,10,80,5,8.0,40,15,middle,0.0,0,0.0,0,141,61,40,69,20,1
+194,2026-04-01T14:59:19.869242+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,11,84,5,7.64,40,4,middle,0.0,0,0.0,0,141,57,40,69,20,1
+195,2026-04-01T15:02:14.001880+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,13,144,4,11.08,74,14,middle,0.0,0,0.0,0,225,81,74,90,61,1
+196,2026-04-01T15:03:16.326805+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,12,96,5,8.0,40,8,middle,0.0,0,0.0,0,141,45,40,69,20,1
+197,2026-04-01T15:06:43.002102+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,14,158,4,11.29,74,14,middle,0.0,0,0.0,0,225,67,74,90,61,1
+198,2026-04-01T15:07:56.946461+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,13,105,5,8.08,40,9,middle,0.0,0,0.0,0,141,36,40,69,20,1
+199,2026-04-01T15:11:28.368426+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,15,164,4,10.93,74,6,middle,0.0,0,0.0,0,225,61,74,90,61,1
+200,2026-04-01T15:13:32.077816+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,14,108,6,7.71,40,3,middle,0.0,0,0.0,0,141,33,40,69,20,1
+201,2026-04-01T15:15:37.746034+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,16,168,4,10.5,74,4,death,0.0,0,0.0,0,225,57,74,90,61,1
+202,2026-04-01T15:18:19.235901+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,15,121,6,8.07,40,13,middle,0.0,0,0.0,0,141,20,40,69,20,1
+203,2026-04-01T15:21:50.077090+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,17,173,5,10.18,74,5,death,0.0,0,0.0,0,225,52,74,90,61,1
+204,2026-04-01T15:25:10.847255+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,16,127,6,7.94,40,6,death,0.0,0,0.0,0,141,14,40,69,20,1
+205,2026-04-01T15:28:56.556626+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,17,135,6,7.94,40,8,death,0.0,0,0.0,0,141,6,40,69,20,1
+206,2026-04-01T15:29:33.145410+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,18,203,5,11.28,74,30,death,0.0,0,0.0,0,225,22,74,90,61,1
+207,2026-04-01T15:34:43.867271+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,19,214,5,11.26,74,11,death,0.0,0,0.0,0,225,11,74,90,61,1
+208,2026-04-01T15:35:21.455656+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,1,,,18,140,8,7.78,40,5,death,0.0,0,0.0,0,141,1,40,69,20,1
+209,2026-04-01T15:40:12.185948+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,1,,,20,225,5,11.25,74,11,death,0.0,0,0.0,0,225,0,74,90,61,1
+210,2026-04-01T15:58:48.462745+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,1,6,0,6.0,6,6,powerplay,0.0,0,0.0,0,,,,,,0
+211,2026-04-01T16:00:42.914885+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,1,6,1,6.0,6,6,powerplay,0.0,0,0.0,0,,,,,,0
+212,2026-04-01T16:03:10.453993+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,2,22,0,11.0,22,16,powerplay,0.0,0,0.0,0,,,,,,0
+213,2026-04-01T16:06:43.094017+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,2,13,1,6.5,13,7,powerplay,0.0,0,0.0,0,,,,,,0
+214,2026-04-01T16:07:33.624096+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,3,37,0,12.33,37,15,powerplay,0.0,0,0.0,0,,,,,,0
+215,2026-04-01T16:11:31.463077+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,4,52,0,13.0,52,15,powerplay,0.0,0,0.0,0,,,,,,0
+216,2026-04-01T16:11:43.943170+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,3,20,1,6.67,20,7,powerplay,0.0,0,0.0,0,,,,,,0
+217,2026-04-01T16:15:06.512995+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,5,71,0,14.2,71,19,powerplay,0.0,0,0.0,0,,,,,,0
+218,2026-04-01T16:17:35.956101+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,4,23,2,5.75,22,2,powerplay,0.0,0,0.0,0,,,,,,0
+219,2026-04-01T16:20:43.107573+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,6,83,0,13.83,83,12,powerplay,0.0,0,0.0,0,,,,,,0
+220,2026-04-01T16:24:29.942926+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,7,94,0,13.43,83,11,middle,0.0,0,0.0,0,,,,,,0
+221,2026-04-01T16:26:10.866737+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,5,30,4,6.0,29,7,powerplay,0.0,0,0.0,0,,,,,,0
+222,2026-04-01T16:30:21.425352+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,8,104,0,13.0,83,10,middle,0.0,0,0.0,0,,,,,,0
+223,2026-04-01T16:32:12.732470+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,6,33,4,5.5,31,2,powerplay,0.0,0,0.0,0,,,,,,0
+224,2026-04-01T16:34:55.088734+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,9,114,1,12.67,83,10,middle,0.0,0,0.0,0,,,,,,0
+225,2026-04-01T16:38:15.417759+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,7,39,4,5.57,31,6,middle,0.0,0,0.0,0,,,,,,0
+226,2026-04-01T16:40:34.501217+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,10,123,2,12.3,83,9,middle,0.0,0,0.0,0,,,,,,0
+227,2026-04-01T16:43:56.850024+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,8,53,4,6.62,31,13,middle,0.0,0,0.0,0,,,,,,0
+228,2026-04-01T16:47:04.342076+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,11,135,2,12.27,83,12,middle,0.0,0,0.0,0,,,,,,0
+229,2026-04-01T16:51:02.426161+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,9,61,4,6.78,31,8,middle,0.0,0,0.0,0,,,,,,0
+230,2026-04-01T16:52:29.327798+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,12,144,2,12.0,83,9,middle,0.0,0,0.0,0,,,,,,0
+231,2026-04-01T16:55:25.639628+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,10,77,4,7.7,31,16,middle,0.0,0,0.0,0,,,,,,0
+232,2026-04-01T17:00:31.538271+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,13,148,2,11.38,83,4,middle,0.0,0,0.0,0,,,,,,0
+233,2026-04-01T17:02:20.889320+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,11,83,4,7.55,31,6,middle,0.0,0,0.0,0,,,,,,0
+234,2026-04-01T17:05:05.052229+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,12,87,4,7.25,31,4,middle,0.0,0,0.0,0,,,,,,0
+235,2026-04-01T17:09:17.501124+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,14,167,3,11.93,83,19,middle,0.0,0,0.0,0,,,,,,0
+236,2026-04-01T17:10:21.243385+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,13,93,4,7.15,31,6,middle,0.0,0,0.0,0,,,,,,0
+237,2026-04-01T17:14:20.205829+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,14,106,4,7.57,31,13,middle,0.0,0,0.0,0,,,,,,0
+238,2026-04-01T17:15:36.389063+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,15,188,3,12.53,83,21,middle,0.0,0,0.0,0,,,,,,0
+239,2026-04-01T17:19:58.964014+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,16,192,4,12.0,83,4,death,0.0,0,0.0,0,,,,,,0
+240,2026-04-01T17:20:36.034164+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,15,113,4,7.53,31,7,middle,0.0,0,0.0,0,,,,,,0
+241,2026-04-01T17:25:48.857123+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,16,126,4,7.88,31,13,death,0.0,0,0.0,0,,,,,,0
+242,2026-04-01T17:26:38.643782+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,17,207,4,12.18,83,15,death,0.0,0,0.0,0,,,,,,0
+243,2026-04-01T17:31:02.629863+00:00,69522,ipl,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,2,,,17,139,4,8.18,31,13,death,0.0,0,0.0,0,,,,,,0
+244,2026-04-01T17:31:39.617077+00:00,69481,psl,Gaddafi Stadium,Multan Sultans,Hyderabad Kingsmen,2,,,18,219,4,12.17,83,12,death,0.0,0,0.0,0,,,,,,0
+245,2026-04-02T09:33:51.757191+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,1,5,0,5.0,5,5,powerplay,0.0,0,0.0,0,183,178,60,49,74,1
+246,2026-04-02T09:40:25.265721+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,2,17,0,8.5,17,12,powerplay,0.0,0,0.0,0,183,166,60,49,74,1
+247,2026-04-02T09:43:57.069819+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,3,31,0,10.33,31,14,powerplay,0.0,0,0.0,0,183,152,60,49,74,1
+248,2026-04-02T09:48:59.187877+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,4,43,0,10.75,43,12,powerplay,0.0,0,0.0,0,183,140,60,49,74,1
+249,2026-04-02T09:53:24.677384+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,5,50,1,10.0,50,7,powerplay,0.0,0,0.0,0,183,133,60,49,74,1
+250,2026-04-02T09:58:03.444526+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,6,60,1,10.0,60,10,powerplay,0.0,0,0.0,0,183,123,60,49,74,1
+251,2026-04-02T10:03:18.195140+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,7,68,1,9.71,60,8,middle,0.0,0,0.0,0,183,115,60,49,74,1
+252,2026-04-02T10:07:18.413584+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,8,71,1,8.88,60,3,middle,0.0,0,0.0,0,183,112,60,49,74,1
+253,2026-04-02T10:11:58.188007+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,9,78,2,8.67,60,7,middle,0.0,0,0.0,0,183,105,60,49,74,1
+254,2026-04-02T10:15:51.942511+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,10,88,2,8.8,60,10,middle,0.0,0,0.0,0,183,95,60,49,74,1
+255,2026-04-02T10:20:17.985312+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,11,91,3,8.27,60,3,middle,0.0,0,0.0,0,183,92,60,49,74,1
+256,2026-04-02T10:26:38.986553+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,12,93,5,7.75,60,2,middle,0.0,0,0.0,0,183,90,60,49,74,1
+257,2026-04-02T10:31:09.793050+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,13,98,5,7.54,60,5,middle,0.0,0,0.0,0,183,85,60,49,74,1
+258,2026-04-02T10:33:38.496774+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,14,104,5,7.43,60,6,middle,0.0,0,0.0,0,183,79,60,49,74,1
+259,2026-04-02T10:38:20.543163+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,15,109,5,7.27,60,5,middle,0.0,0,0.0,0,183,74,60,49,74,1
+260,2026-04-02T10:44:40.253352+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,16,130,5,8.12,60,21,death,0.0,0,0.0,0,183,53,60,49,74,1
+261,2026-04-02T10:48:21.160377+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,17,140,5,8.24,60,10,death,0.0,0,0.0,0,183,43,60,49,74,1
+262,2026-04-02T10:54:15.529103+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,18,152,5,8.44,60,12,death,0.0,0,0.0,0,183,31,60,49,74,1
+263,2026-04-02T10:59:31.800453+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,19,172,5,9.05,60,20,death,0.0,0,0.0,0,183,11,60,49,74,1
+264,2026-04-02T11:03:50.202872+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,1,,,20,183,5,9.15,60,11,death,0.0,0,0.0,0,183,0,60,49,74,1
+265,2026-04-02T11:23:15.989497+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,1,9,0,9.0,4,4,powerplay,0.0,0,0.0,0,,,,,,0
+266,2026-04-02T11:27:53.912186+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,2,12,0,6.0,7,3,powerplay,0.0,0,0.0,0,,,,,,0
+267,2026-04-02T11:37:24.018127+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,4,38,0,9.5,33,14,powerplay,0.0,0,0.0,0,,,,,,0
+268,2026-04-02T11:41:31.194405+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,5,44,1,8.8,39,6,powerplay,0.0,0,0.0,0,,,,,,0
+269,2026-04-02T11:48:15.536996+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,6,58,1,9.67,53,14,powerplay,0.0,0,0.0,0,,,,,,0
+270,2026-04-02T11:53:21.579325+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,7,62,2,8.86,53,4,middle,0.0,0,0.0,0,,,,,,0
+271,2026-04-02T11:59:05.478895+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,8,70,2,8.75,53,8,middle,0.0,0,0.0,0,,,,,,0
+272,2026-04-02T12:02:24.660276+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,9,76,2,8.44,53,6,middle,0.0,0,0.0,0,,,,,,0
+273,2026-04-02T12:12:13.912429+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,10,83,2,8.3,53,5,middle,0.0,0,0.0,0,,,,,,0
+274,2026-04-02T12:12:40.142549+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,11,90,2,8.18,53,4,middle,0.0,0,0.0,0,,,,,,0
+275,2026-04-02T12:16:23.713219+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,12,108,2,9.0,53,22,middle,0.0,0,0.0,0,,,,,,0
+276,2026-04-02T12:24:30.459407+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,14,125,2,8.93,53,12,middle,0.0,0,0.0,0,,,,,,0
+277,2026-04-02T12:35:05.959717+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,15,141,2,9.4,53,16,middle,0.0,0,0.0,0,,,,,,0
+278,2026-04-02T12:38:39.945784+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,16,154,2,9.62,53,13,death,0.0,0,0.0,0,,,,,,0
+279,2026-04-02T12:42:36.093126+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,17,168,2,9.88,53,14,death,0.0,0,0.0,0,,,,,,0
+280,2026-04-02T12:49:03.285296+00:00,69482,psl,Gaddafi Stadium,Islamabad United,Quetta Gladiators,2,,,18,182,2,10.11,53,13,death,0.0,0,0.0,0,,,,,,0
+281,2026-04-02T14:04:07.331442+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,1,6,0,6.0,6,6,powerplay,0.0,0,0.0,0,226,220,84,80,58,1
+282,2026-04-02T14:04:57.453710+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,1,13,0,13.0,13,13,powerplay,0.0,0,0.0,0,197,184,55,81,52,1
+283,2026-04-02T14:08:56.077126+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,2,22,0,11.0,22,16,powerplay,0.0,0,0.0,0,226,204,84,80,58,1
+284,2026-04-02T14:09:33.691332+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,2,24,0,12.0,24,11,powerplay,0.0,0,0.0,0,197,173,55,81,52,1
+285,2026-04-02T14:13:44.360462+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,3,28,1,9.33,28,4,powerplay,0.0,0,0.0,0,197,169,55,81,52,1
+286,2026-04-02T14:15:25.333653+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,3,43,0,14.33,43,21,powerplay,0.0,0,0.0,0,226,183,84,80,58,1
+287,2026-04-02T14:18:21.683001+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,4,46,0,11.5,46,3,powerplay,0.0,0,0.0,0,226,180,84,80,58,1
+288,2026-04-02T14:19:24.081877+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,4,33,2,8.25,33,5,powerplay,0.0,0,0.0,0,197,164,55,81,52,1
+289,2026-04-02T14:23:20.767392+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,5,41,2,8.2,41,8,powerplay,0.0,0,0.0,0,197,156,55,81,52,1
+290,2026-04-02T14:24:10.055808+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,5,71,0,14.2,71,25,powerplay,0.0,0,0.0,0,226,155,84,80,58,1
+291,2026-04-02T14:31:49.717513+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,6,84,1,14.0,84,13,powerplay,0.0,0,0.0,0,226,142,84,80,58,1
+292,2026-04-02T14:32:39.092217+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,7,62,3,8.86,55,7,middle,0.0,0,0.0,0,197,135,55,81,52,1
+293,2026-04-02T14:35:56.314544+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,7,98,1,14.0,84,14,middle,0.0,0,0.0,0,226,128,84,80,58,1
+294,2026-04-02T14:36:58.109353+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,8,70,3,8.75,55,8,middle,0.0,0,0.0,0,197,127,55,81,52,1
+295,2026-04-02T14:42:05.261992+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,9,83,3,9.22,55,13,middle,0.0,0,0.0,0,197,114,55,81,52,1
+296,2026-04-02T14:42:54.216649+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,8,110,1,13.75,84,12,middle,0.0,0,0.0,0,226,116,84,80,58,1
+297,2026-04-02T14:47:49.993146+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,10,86,3,8.6,55,3,middle,0.0,0,0.0,0,197,111,55,81,52,1
+298,2026-04-02T14:49:28.287382+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,11,92,3,8.36,55,6,middle,0.0,0,0.0,0,197,105,55,81,52,1
+299,2026-04-02T14:54:45.503144+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,9,118,3,13.11,84,4,middle,0.0,0,0.0,0,226,108,84,80,58,1
+300,2026-04-02T14:55:22.133081+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,12,98,3,8.17,55,6,middle,0.0,0,0.0,0,197,99,55,81,52,1
+301,2026-04-02T14:59:30.266233+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,10,123,4,12.3,84,5,middle,0.0,0,0.0,0,226,103,84,80,58,1
+302,2026-04-02T15:00:57.901691+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,13,117,3,9.0,55,19,middle,0.0,0,0.0,0,197,80,55,81,52,1
+303,2026-04-02T15:04:28.427779+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,11,129,4,11.73,84,6,middle,0.0,0,0.0,0,226,97,84,80,58,1
+304,2026-04-02T15:06:57.676301+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,12,140,4,11.67,84,11,middle,0.0,0,0.0,0,226,86,84,80,58,1
+305,2026-04-02T15:09:27.701557+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,15,138,3,9.2,55,9,middle,0.0,0,0.0,0,197,59,55,81,52,1
+306,2026-04-02T15:10:05.686332+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,13,149,4,11.46,84,9,middle,0.0,0,0.0,0,226,77,84,80,58,1
+307,2026-04-02T15:14:27.246299+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,14,155,4,11.07,84,6,middle,0.0,0,0.0,0,226,71,84,80,58,1
+308,2026-04-02T15:15:42.695988+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,16,156,3,9.75,55,16,death,0.0,0,0.0,0,197,41,55,81,52,1
+309,2026-04-02T15:20:19.201774+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,15,168,4,11.2,84,13,middle,0.0,0,0.0,0,226,58,84,80,58,1
+310,2026-04-02T15:21:21.767248+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,17,174,3,10.24,55,18,death,0.0,0,0.0,0,197,23,55,81,52,1
+311,2026-04-02T15:25:44.472146+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,16,175,4,10.94,84,7,death,0.0,0,0.0,0,226,51,84,80,58,1
+312,2026-04-02T15:26:09.518992+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,18,181,4,10.06,55,7,death,0.0,0,0.0,0,197,16,55,81,52,1
+313,2026-04-02T15:29:55.124853+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,17,184,4,10.82,84,9,death,0.0,0,0.0,0,226,42,84,80,58,1
+314,2026-04-02T15:31:10.196900+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,19,191,5,10.05,55,9,death,0.0,0,0.0,0,197,6,55,81,52,1
+315,2026-04-02T15:35:32.461754+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,18,200,4,11.11,84,16,death,0.0,0,0.0,0,226,26,84,80,58,1
+316,2026-04-02T15:35:57.811667+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,1,,,20,197,6,9.85,55,5,death,0.0,0,0.0,0,197,0,55,81,52,1
+317,2026-04-02T15:51:04.567938+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,1,,,20,225,8,11.25,84,15,death,0.0,0,0.0,0,226,1,84,80,58,1
+318,2026-04-02T15:55:39.375165+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,,,,,,0
+319,2026-04-02T15:58:36.598833+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,2,13,0,6.5,13,3,powerplay,0.0,0,0.0,0,,,,,,0
+320,2026-04-02T16:07:25.278907+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,3,28,1,9.33,28,15,powerplay,0.0,0,0.0,0,,,,,,0
+321,2026-04-02T16:10:20.819475+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,1,25,0,25.0,25,25,powerplay,0.0,0,0.0,0,,,,,,0
+322,2026-04-02T16:11:48.584352+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,4,34,1,8.5,34,6,powerplay,0.0,0,0.0,0,,,,,,0
+323,2026-04-02T16:15:22.782354+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,2,33,1,16.5,33,8,powerplay,0.0,0,0.0,0,,,,,,0
+324,2026-04-02T16:17:29.072254+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,5,38,1,7.6,38,4,powerplay,0.0,0,0.0,0,,,,,,0
+325,2026-04-02T16:18:44.875186+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,3,48,1,16.0,48,15,powerplay,0.0,0,0.0,0,,,,,,0
+326,2026-04-02T16:21:01.705400+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,6,52,1,8.67,52,14,powerplay,0.0,0,0.0,0,,,,,,0
+327,2026-04-02T16:21:51.757494+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,4,57,1,14.25,57,9,powerplay,0.0,0,0.0,0,,,,,,0
+328,2026-04-02T16:25:52.211885+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,7,58,1,8.29,52,6,middle,0.0,0,0.0,0,,,,,,0
+329,2026-04-02T16:26:54.462663+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,5,67,2,13.4,67,10,powerplay,0.0,0,0.0,0,,,,,,0
+330,2026-04-02T16:29:49.901697+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,8,65,1,8.12,52,7,middle,0.0,0,0.0,0,,,,,,0
+331,2026-04-02T16:35:54.228973+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,6,74,3,12.33,74,7,powerplay,0.0,0,0.0,0,,,,,,0
+332,2026-04-02T16:38:26.396383+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,9,81,2,9.0,52,11,middle,0.0,0,0.0,0,,,,,,0
+333,2026-04-02T16:38:38.662450+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,10,81,2,8.1,52,5,middle,0.0,0,0.0,0,,,,,,0
+334,2026-04-02T16:41:23.142110+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,7,79,3,11.29,74,5,middle,0.0,0,0.0,0,,,,,,0
+335,2026-04-02T16:44:19.586853+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,11,91,2,8.27,52,9,middle,0.0,0,0.0,0,,,,,,0
+336,2026-04-02T16:46:23.013158+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,8,88,3,11.0,74,9,middle,0.0,0,0.0,0,,,,,,0
+337,2026-04-02T16:48:27.189648+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,12,103,2,8.58,52,12,middle,0.0,0,0.0,0,,,,,,0
+338,2026-04-02T16:53:23.641543+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,9,100,3,11.11,74,12,middle,0.0,0,0.0,0,,,,,,0
+339,2026-04-02T16:53:24.060434+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,13,113,2,8.69,52,10,middle,0.0,0,0.0,0,,,,,,0
+340,2026-04-02T16:57:28.491949+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,10,110,3,11.0,74,10,middle,0.0,0,0.0,0,,,,,,0
+341,2026-04-02T16:57:41.395101+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,14,128,2,9.14,52,15,middle,0.0,0,0.0,0,,,,,,0
+342,2026-04-02T17:01:11.960091+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,11,120,4,10.91,74,10,middle,0.0,0,0.0,0,,,,,,0
+343,2026-04-02T17:05:06.727344+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,15,144,2,9.6,52,16,middle,0.0,0,0.0,0,,,,,,0
+344,2026-04-02T17:08:11.373942+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,12,123,5,10.25,74,3,middle,0.0,0,0.0,0,,,,,,0
+345,2026-04-02T17:11:53.539214+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,16,153,3,9.56,52,9,death,0.0,0,0.0,0,,,,,,0
+346,2026-04-02T17:12:42.848344+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,13,137,5,10.54,74,14,middle,0.0,0,0.0,0,,,,,,0
+347,2026-04-02T17:18:04.949436+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,14,151,6,10.79,74,14,middle,0.0,0,0.0,0,,,,,,0
+348,2026-04-02T17:19:18.071267+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,17,172,3,10.12,52,19,death,0.0,0,0.0,0,,,,,,0
+349,2026-04-02T17:23:27.211746+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,18,184,3,10.22,52,12,death,0.0,0,0.0,0,,,,,,0
+350,2026-04-02T17:27:34.089691+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,15,159,8,10.6,74,7,middle,0.0,0,0.0,0,,,,,,0
+351,2026-04-02T17:29:00.821925+00:00,69483,psl,Gaddafi Stadium,Rawalpindiz,Karachi Kings,2,,,19,193,4,10.16,52,9,death,0.0,0,0.0,0,,,,,,0
+352,2026-04-02T17:35:42.446469+00:00,69523,ipl,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,2,,,16,161,10,10.06,74,2,death,0.0,0,0.0,0,,,,,,0
+353,2026-04-03T14:05:06.220287+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,1,5,0,5.0,5,5,powerplay,0.0,0,0.0,0,209,204,57,88,63,1
+354,2026-04-03T14:10:20.531466+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,2,14,1,7.0,14,9,powerplay,0.0,0,0.0,0,209,195,57,88,63,1
+355,2026-04-03T14:17:31.261144+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,3,24,1,8.0,24,10,powerplay,0.0,0,0.0,0,209,185,57,88,63,1
+356,2026-04-03T14:22:22.113730+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,4,39,1,9.75,39,15,powerplay,0.0,0,0.0,0,209,170,57,88,63,1
+357,2026-04-03T14:27:04.657765+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,5,49,1,9.8,49,10,powerplay,0.0,0,0.0,0,209,160,57,88,63,1
+358,2026-04-03T14:32:26.423131+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,6,57,1,9.5,57,8,powerplay,0.0,0,0.0,0,209,152,57,88,63,1
+359,2026-04-03T14:38:59.730601+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,7,71,1,10.14,57,14,middle,0.0,0,0.0,0,209,138,57,88,63,1
+360,2026-04-03T14:42:44.169619+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,8,77,1,9.62,57,6,middle,0.0,0,0.0,0,209,132,57,88,63,1
+361,2026-04-03T14:48:42.239031+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,9,94,1,10.44,57,17,middle,0.0,0,0.0,0,209,115,57,88,63,1
+362,2026-04-03T14:53:05.956864+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,10,101,1,10.1,57,7,middle,0.0,0,0.0,0,209,108,57,88,63,1
+363,2026-04-03T15:05:26.993601+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,12,118,2,9.83,57,8,middle,0.0,0,0.0,0,209,91,57,88,63,1
+364,2026-04-03T15:12:24.549798+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,13,125,3,9.62,57,7,middle,0.0,0,0.0,0,209,84,57,88,63,1
+365,2026-04-03T15:20:41.526728+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,14,130,4,9.29,57,5,middle,0.0,0,0.0,0,209,79,57,88,63,1
+366,2026-04-03T15:26:13.763665+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,15,145,4,9.67,57,15,middle,0.0,0,0.0,0,209,64,57,88,63,1
+367,2026-04-03T15:31:59.762962+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,16,156,4,9.75,57,11,death,0.0,0,0.0,0,209,53,57,88,63,1
+368,2026-04-03T15:37:46.003372+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,17,168,5,9.88,57,12,death,0.0,0,0.0,0,209,41,57,88,63,1
+369,2026-04-03T15:44:33.818905+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,18,182,5,10.11,57,14,death,0.0,0,0.0,0,209,27,57,88,63,1
+370,2026-04-03T15:53:05.418576+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,1,26,0,26.0,26,26,powerplay,0.0,0,0.0,0,185,159,97,81,0,1
+371,2026-04-03T15:53:30.549152+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,19,196,5,10.32,57,14,death,0.0,0,0.0,0,209,13,57,88,63,1
+372,2026-04-03T15:57:16.596205+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,2,32,0,16.0,32,6,powerplay,0.0,0,0.0,0,185,153,97,81,0,1
+373,2026-04-03T16:00:12.852856+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,1,,,20,209,5,10.45,57,13,death,0.0,0,0.0,0,209,0,57,88,63,1
+374,2026-04-03T16:02:30.188444+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,3,48,0,16.0,48,16,powerplay,0.0,0,0.0,0,185,137,97,81,0,1
+375,2026-04-03T16:08:08.891303+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,4,67,0,16.75,67,19,powerplay,0.0,0,0.0,0,185,118,97,81,0,1
+376,2026-04-03T16:12:06.253503+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,5,86,0,17.2,86,19,powerplay,0.0,0,0.0,0,185,99,97,81,0,1
+377,2026-04-03T16:17:59.420296+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,6,97,1,16.17,97,11,powerplay,0.0,0,0.0,0,185,88,97,81,0,1
+378,2026-04-03T16:20:42.549105+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,1,14,0,14.0,14,14,powerplay,0.0,0,0.0,0,,,,,,0
+379,2026-04-03T16:25:31.132707+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,2,34,0,17.0,34,20,powerplay,0.0,0,0.0,0,,,,,,0
+380,2026-04-03T16:28:02.502098+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,8,134,1,16.75,97,11,middle,0.0,0,0.0,0,185,51,97,81,0,1
+381,2026-04-03T16:33:56.340956+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,9,144,2,16.0,97,10,middle,0.0,0,0.0,0,185,41,97,81,0,1
+382,2026-04-03T16:40:03.791940+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,10,156,3,15.6,97,12,middle,0.0,0,0.0,0,185,29,97,81,0,1
+383,2026-04-03T16:41:32.509736+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,5,63,1,12.6,62,7,powerplay,0.0,0,0.0,0,,,,,,0
+384,2026-04-03T16:45:45.178171+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,11,163,3,14.82,97,6,middle,0.0,0,0.0,0,185,22,97,81,0,1
+385,2026-04-03T16:46:35.540258+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,6,68,1,11.33,67,5,powerplay,0.0,0,0.0,0,,,,,,0
+386,2026-04-03T16:51:13.118349+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,7,80,1,11.43,67,12,middle,0.0,0,0.0,0,,,,,,0
+387,2026-04-03T16:52:40.276657+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,12,173,4,14.42,97,9,middle,0.0,0,0.0,0,185,12,97,81,0,1
+388,2026-04-03T16:54:58.149253+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,8,88,1,11.0,67,8,middle,0.0,0,0.0,0,,,,,,0
+389,2026-04-03T16:58:44.997834+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,1,,,13,185,5,14.23,97,12,middle,0.0,0,0.0,0,185,0,97,81,0,1
+390,2026-04-03T17:02:32.731667+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,9,95,2,10.56,67,7,middle,0.0,0,0.0,0,,,,,,0
+391,2026-04-03T17:05:15.419143+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,10,103,2,10.3,67,8,middle,0.0,0,0.0,0,,,,,,0
+392,2026-04-03T17:09:52.119387+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,11,117,2,10.64,67,14,middle,0.0,0,0.0,0,,,,,,0
+393,2026-04-03T17:14:26.628254+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,1,7,0,7.0,7,7,powerplay,0.0,0,0.0,0,,,,,,0
+394,2026-04-03T17:16:44.001327+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,12,127,3,10.58,67,10,middle,0.0,0,0.0,0,,,,,,0
+395,2026-04-03T17:19:40.064920+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,2,13,0,6.5,12,5,powerplay,0.0,0,0.0,0,,,,,,0
+396,2026-04-03T17:20:18.214998+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,13,143,3,11.0,67,16,middle,0.0,0,0.0,0,,,,,,0
+397,2026-04-03T17:24:31.058328+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,14,148,3,10.57,67,5,middle,0.0,0,0.0,0,,,,,,0
+398,2026-04-03T17:24:43.327301+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,3,18,1,6.0,17,5,powerplay,0.0,0,0.0,0,,,,,,0
+399,2026-04-03T17:28:54.642191+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,15,163,3,10.87,67,15,middle,0.0,0,0.0,0,,,,,,0
+400,2026-04-03T17:32:37.650386+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,16,177,3,11.06,67,14,death,0.0,0,0.0,0,,,,,,0
+401,2026-04-03T17:34:42.887436+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,4,28,2,7.0,27,10,powerplay,0.0,0,0.0,0,,,,,,0
+402,2026-04-03T17:39:51.308913+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,5,48,2,9.6,47,20,powerplay,0.0,0,0.0,0,,,,,,0
+403,2026-04-03T17:41:18.422115+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,17,186,4,10.94,67,9,death,0.0,0,0.0,0,,,,,,0
+404,2026-04-03T17:45:39.129723+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,6,53,3,8.83,52,5,powerplay,0.0,0,0.0,0,,,,,,0
+405,2026-04-03T17:47:41.602215+00:00,69524,ipl,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,2,,,18,198,5,11.0,67,12,death,0.0,0,0.0,0,,,,,,0
+406,2026-04-03T17:50:48.852372+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,7,69,3,9.86,52,15,middle,0.0,0,0.0,0,,,,,,0
+407,2026-04-03T17:54:33.960021+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,8,81,3,10.12,52,12,middle,0.0,0,0.0,0,,,,,,0
+408,2026-04-03T18:03:38.607801+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,9,95,3,10.56,52,13,middle,0.0,0,0.0,0,,,,,,0
+409,2026-04-03T18:10:45.071416+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,10,114,4,11.4,52,19,middle,0.0,0,0.0,0,,,,,,0
+410,2026-04-03T18:16:57.353946+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,11,127,4,11.55,52,13,middle,0.0,0,0.0,0,,,,,,0
+411,2026-04-03T18:21:34.978155+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,12,146,4,12.17,52,19,middle,0.0,0,0.0,0,,,,,,0
+412,2026-04-03T18:28:45.090796+00:00,69484,psl,Gaddafi Stadium,Multan Sultans,Lahore Qalandars,2,,,13,165,5,12.69,52,19,middle,0.0,0,0.0,0,,,,,,0
+413,2026-04-04T10:05:29.492585+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,1,8,0,8.0,8,8,powerplay,0.0,0,0.0,0,162,154,41,75,45,1
+414,2026-04-04T10:10:54.806079+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,2,18,0,9.0,18,10,powerplay,0.0,0,0.0,0,162,144,41,75,45,1
+415,2026-04-04T10:17:30.611092+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,3,22,2,7.33,22,4,powerplay,0.0,0,0.0,0,162,140,41,75,45,1
+416,2026-04-04T10:20:19.787665+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,4,25,2,6.25,25,3,powerplay,0.0,0,0.0,0,162,137,41,75,45,1
+417,2026-04-04T10:25:43.437595+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,5,32,2,6.4,32,7,powerplay,0.0,0,0.0,0,162,130,41,75,45,1
+418,2026-04-04T10:30:15.249197+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,6,41,2,6.83,41,9,powerplay,0.0,0,0.0,0,162,121,41,75,45,1
+419,2026-04-04T10:33:57.305149+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,7,52,2,7.43,41,11,middle,0.0,0,0.0,0,162,110,41,75,45,1
+420,2026-04-04T10:37:03.547219+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,8,61,2,7.62,41,9,middle,0.0,0,0.0,0,162,101,41,75,45,1
+421,2026-04-04T10:42:30.145213+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,9,69,2,7.67,41,8,middle,0.0,0,0.0,0,162,93,41,75,45,1
+422,2026-04-04T10:49:14.604297+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,10,73,3,7.3,41,4,middle,0.0,0,0.0,0,162,89,41,75,45,1
+423,2026-04-04T10:53:00.294007+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,11,80,3,7.27,41,6,middle,0.0,0,0.0,0,162,82,41,75,45,1
+424,2026-04-04T10:59:03.355005+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,12,85,4,7.08,41,5,middle,0.0,0,0.0,0,162,77,41,75,45,1
+425,2026-04-04T11:02:23.964232+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,13,92,4,7.08,41,6,middle,0.0,0,0.0,0,162,70,41,75,45,1
+426,2026-04-04T11:06:54.942222+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,14,100,4,7.14,41,8,middle,0.0,0,0.0,0,162,62,41,75,45,1
+427,2026-04-04T11:11:28.824539+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,15,117,4,7.8,41,17,middle,0.0,0,0.0,0,162,45,41,75,45,1
+428,2026-04-04T11:22:00.632421+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,16,124,5,7.75,41,7,death,0.0,0,0.0,0,162,38,41,75,45,1
+429,2026-04-04T11:26:18.526865+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,17,136,5,8.0,41,12,death,0.0,0,0.0,0,162,26,41,75,45,1
+430,2026-04-04T11:31:52.586043+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,18,144,5,8.0,41,8,death,0.0,0,0.0,0,162,18,41,75,45,1
+431,2026-04-04T11:36:48.493806+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,19,148,6,7.79,41,4,death,0.0,0,0.0,0,162,14,41,75,45,1
+432,2026-04-04T11:44:35.758249+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,1,,,20,162,6,8.1,41,14,death,0.0,0,0.0,0,162,0,41,75,45,1
+433,2026-04-04T12:05:50.648219+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,1,2,1,2.0,2,2,powerplay,0.0,0,0.0,0,,,,,,0
+434,2026-04-04T12:12:07.025845+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,2,8,2,4.0,8,6,powerplay,0.0,0,0.0,0,,,,,,0
+435,2026-04-04T12:16:17.673490+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,3,13,2,4.33,13,5,powerplay,0.0,0,0.0,0,,,,,,0
+436,2026-04-04T12:20:39.334648+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,4,23,2,5.75,23,10,powerplay,0.0,0,0.0,0,,,,,,0
+437,2026-04-04T12:25:24.828079+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,5,39,2,7.8,39,16,powerplay,0.0,0,0.0,0,,,,,,0
+438,2026-04-04T12:31:11.991758+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,6,42,2,7.0,42,3,powerplay,0.0,0,0.0,0,,,,,,0
+439,2026-04-04T12:33:19.223594+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,7,48,2,6.86,42,5,middle,0.0,0,0.0,0,,,,,,0
+440,2026-04-04T12:36:39.918527+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,8,54,2,6.75,42,6,middle,0.0,0,0.0,0,,,,,,0
+441,2026-04-04T12:42:18.156101+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,9,66,2,7.33,42,12,middle,0.0,0,0.0,0,,,,,,0
+442,2026-04-04T12:49:52.119123+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,10,73,3,7.3,42,7,middle,0.0,0,0.0,0,,,,,,0
+443,2026-04-04T12:54:11.721288+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,11,93,3,8.45,42,20,middle,0.0,0,0.0,0,,,,,,0
+444,2026-04-04T13:02:54.509485+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,13,108,3,8.31,42,1,middle,0.0,0,0.0,0,,,,,,0
+445,2026-04-04T13:07:38.780647+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,14,121,3,8.64,42,13,middle,0.0,0,0.0,0,,,,,,0
+446,2026-04-04T13:13:51.513159+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,15,138,3,9.2,42,16,middle,0.0,0,0.0,0,,,,,,0
+447,2026-04-04T13:19:40.924190+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,16,149,3,9.31,42,11,death,0.0,0,0.0,0,,,,,,0
+448,2026-04-04T13:27:10.773710+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,17,152,4,8.94,42,3,death,0.0,0,0.0,0,,,,,,0
+449,2026-04-04T13:31:54.324320+00:00,69525,ipl,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,2,,,18,160,4,8.89,42,8,death,0.0,0,0.0,0,,,,,,0
+450,2026-04-04T14:05:23.767698+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,210,200,69,90,50,1
+451,2026-04-04T14:09:57.650539+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,2,17,0,8.5,17,7,powerplay,0.0,0,0.0,0,210,193,69,90,50,1
+452,2026-04-04T14:15:21.845970+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,3,32,0,10.67,32,15,powerplay,0.0,0,0.0,0,210,178,69,90,50,1
+453,2026-04-04T14:20:16.428510+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,4,44,0,11.0,44,12,powerplay,0.0,0,0.0,0,210,166,69,90,50,1
+454,2026-04-04T14:26:02.808223+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,5,57,0,11.4,57,13,powerplay,0.0,0,0.0,0,210,153,69,90,50,1
+455,2026-04-04T14:31:29.033320+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,6,69,0,11.5,69,12,powerplay,0.0,0,0.0,0,210,141,69,90,50,1
+456,2026-04-04T14:37:36.057749+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,7,74,1,10.57,69,5,middle,0.0,0,0.0,0,210,136,69,90,50,1
+457,2026-04-04T14:42:00.687288+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,8,80,1,10.0,69,6,middle,0.0,0,0.0,0,210,130,69,90,50,1
+458,2026-04-04T14:46:00.006557+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,9,92,1,10.22,69,12,middle,0.0,0,0.0,0,210,118,69,90,50,1
+459,2026-04-04T14:47:29.249779+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,1,4,0,4.0,4,2,powerplay,0.0,0,0.0,0,156,152,35,61,57,1
+460,2026-04-04T14:49:48.418889+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,10,97,1,9.7,69,5,middle,0.0,0,0.0,0,210,113,69,90,50,1
+461,2026-04-04T14:50:40.676757+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,2,5,1,2.5,5,3,powerplay,0.0,0,0.0,0,156,151,35,61,57,1
+462,2026-04-04T14:54:16.840841+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,11,107,1,9.73,69,10,middle,0.0,0,0.0,0,210,103,69,90,50,1
+463,2026-04-04T14:54:41.758447+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,3,10,1,3.33,10,5,powerplay,0.0,0,0.0,0,156,146,35,61,57,1
+464,2026-04-04T14:59:46.345560+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,12,122,1,10.17,69,14,middle,0.0,0,0.0,0,210,88,69,90,50,1
+465,2026-04-04T15:01:09.320380+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,4,15,2,3.75,15,5,powerplay,0.0,0,0.0,0,156,141,35,61,57,1
+466,2026-04-04T15:05:59.631180+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,13,134,2,10.31,69,12,middle,0.0,0,0.0,0,210,76,69,90,50,1
+467,2026-04-04T15:07:14.881217+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,5,20,2,4.0,20,5,powerplay,0.0,0,0.0,0,156,136,35,61,57,1
+468,2026-04-04T15:12:28.825324+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,6,35,2,5.83,35,15,powerplay,0.0,0,0.0,0,156,121,35,61,57,1
+469,2026-04-04T15:12:53.846886+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,14,146,3,10.43,69,8,middle,0.0,0,0.0,0,210,64,69,90,50,1
+470,2026-04-04T15:17:18.746732+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,7,45,2,6.43,35,10,middle,0.0,0,0.0,0,156,111,35,61,57,1
+471,2026-04-04T15:19:24.895764+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,15,160,3,10.67,69,12,middle,0.0,0,0.0,0,210,50,69,90,50,1
+472,2026-04-04T15:21:41.758100+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,8,54,2,6.75,35,9,middle,0.0,0,0.0,0,156,102,35,61,57,1
+473,2026-04-04T15:24:36.506136+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,9,58,2,6.44,35,4,middle,0.0,0,0.0,0,156,98,35,61,57,1
+474,2026-04-04T15:28:07.315133+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,16,166,4,10.38,69,6,death,0.0,0,0.0,0,210,44,69,90,50,1
+475,2026-04-04T15:30:00.055042+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,10,66,3,6.6,35,8,middle,0.0,0,0.0,0,156,90,35,61,57,1
+476,2026-04-04T15:33:43.235031+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,17,177,5,10.41,69,11,death,0.0,0,0.0,0,210,33,69,90,50,1
+477,2026-04-04T15:34:20.831022+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,11,77,3,7.0,35,11,middle,0.0,0,0.0,0,156,79,35,61,57,1
+478,2026-04-04T15:39:29.955660+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,18,190,5,10.56,69,13,death,0.0,0,0.0,0,210,20,69,90,50,1
+479,2026-04-04T15:40:58.545260+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,12,79,4,6.58,35,2,middle,0.0,0,0.0,0,156,77,35,61,57,1
+480,2026-04-04T15:43:51.935083+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,1,,,19,201,5,10.58,69,11,death,0.0,0,0.0,0,210,9,69,90,50,1
+481,2026-04-04T15:45:44.322600+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,13,89,4,6.85,35,10,middle,0.0,0,0.0,0,156,67,35,61,57,1
+482,2026-04-04T15:50:23.855946+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,14,94,4,6.71,35,3,middle,0.0,0,0.0,0,156,62,35,61,57,1
+483,2026-04-04T15:58:51.388132+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,15,98,5,6.53,35,4,middle,0.0,0,0.0,0,156,58,35,61,57,1
+484,2026-04-04T16:02:59.149484+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,16,111,5,6.94,35,13,death,0.0,0,0.0,0,156,45,35,61,57,1
+485,2026-04-04T16:08:23.165746+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,17,121,6,7.12,35,9,death,0.0,0,0.0,0,156,35,35,61,57,1
+486,2026-04-04T16:10:38.599968+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,1,15,0,15.0,15,15,powerplay,0.0,0,0.0,0,,,,,,0
+487,2026-04-04T16:13:06.235288+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,18,131,6,7.28,35,10,death,0.0,0,0.0,0,156,25,35,61,57,1
+488,2026-04-04T16:15:00.914505+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,2,22,0,11.0,22,7,powerplay,0.0,0,0.0,0,,,,,,0
+489,2026-04-04T16:19:25.125206+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,19,137,7,7.21,35,6,death,0.0,0,0.0,0,156,19,35,61,57,1
+490,2026-04-04T16:20:11.784916+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,3,32,0,10.67,32,10,powerplay,0.0,0,0.0,0,,,,,,0
+491,2026-04-04T16:23:31.696563+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,1,,,20,156,7,7.8,35,20,death,0.0,0,0.0,0,156,0,35,61,57,1
+492,2026-04-04T16:24:21.933719+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,4,41,0,10.25,41,9,powerplay,0.0,0,0.0,0,,,,,,0
+493,2026-04-04T16:29:07.470287+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,5,46,0,9.2,46,5,powerplay,0.0,0,0.0,0,,,,,,0
+494,2026-04-04T16:33:52.759185+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,6,56,0,9.33,56,11,powerplay,0.0,0,0.0,0,,,,,,0
+495,2026-04-04T16:37:00.735796+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,7,67,0,9.57,56,11,middle,0.0,0,0.0,0,,,,,,0
+496,2026-04-04T16:42:13.084868+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,8,78,1,9.75,56,11,middle,0.0,0,0.0,0,,,,,,0
+497,2026-04-04T16:43:06.129122+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,1,5,0,5.0,5,5,powerplay,0.0,0,0.0,0,,,,,,0
+498,2026-04-04T16:47:27.537460+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,2,16,0,8.0,16,11,powerplay,0.0,0,0.0,0,,,,,,0
+499,2026-04-04T16:49:44.011129+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,9,92,1,10.22,56,14,middle,0.0,0,0.0,0,,,,,,0
+500,2026-04-04T16:52:48.911717+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,3,29,0,9.67,29,9,powerplay,0.0,0,0.0,0,,,,,,0
+501,2026-04-04T16:54:27.471168+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,10,103,1,10.3,56,10,middle,0.0,0,0.0,0,,,,,,0
+502,2026-04-04T16:56:34.591474+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,4,41,0,10.25,41,16,powerplay,0.0,0,0.0,0,,,,,,0
+503,2026-04-04T17:00:35.247693+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,11,112,2,10.18,56,9,middle,0.0,0,0.0,0,,,,,,0
+504,2026-04-04T17:02:38.687712+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,5,58,0,11.6,54,13,powerplay,0.0,0,0.0,0,,,,,,0
+505,2026-04-04T17:04:33.325170+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,12,127,2,10.58,56,15,middle,0.0,0,0.0,0,,,,,,0
+506,2026-04-04T17:11:13.064555+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,13,133,4,10.23,56,6,middle,0.0,0,0.0,0,,,,,,0
+507,2026-04-04T17:12:41.432910+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,7,67,1,9.57,58,5,middle,0.0,0,0.0,0,,,,,,0
+508,2026-04-04T17:17:38.857939+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,8,80,1,10.0,58,13,middle,0.0,0,0.0,0,,,,,,0
+509,2026-04-04T17:18:16.583467+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,14,145,5,10.36,56,12,middle,0.0,0,0.0,0,,,,,,0
+510,2026-04-04T17:21:29.870267+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,9,92,1,10.22,58,12,middle,0.0,0,0.0,0,,,,,,0
+511,2026-04-04T17:24:57.715206+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,15,161,7,10.73,56,16,middle,0.0,0,0.0,0,,,,,,0
+512,2026-04-04T17:27:52.917339+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,10,101,2,10.1,58,9,middle,0.0,0,0.0,0,,,,,,0
+513,2026-04-04T17:29:22.460609+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,16,171,7,10.69,56,10,death,0.0,0,0.0,0,,,,,,0
+514,2026-04-04T17:31:52.381479+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,11,108,2,9.82,58,7,middle,0.0,0,0.0,0,,,,,,0
+515,2026-04-04T17:35:11.193230+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,17,181,7,10.65,56,10,death,0.0,0,0.0,0,,,,,,0
+516,2026-04-04T17:37:55.239055+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,12,127,3,10.58,58,19,middle,0.0,0,0.0,0,,,,,,0
+517,2026-04-04T17:41:04.243928+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,18,196,7,10.89,56,15,death,0.0,0,0.0,0,,,,,,0
+518,2026-04-04T17:43:20.980781+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,13,139,3,10.69,58,12,middle,0.0,0,0.0,0,,,,,,0
+519,2026-04-04T17:47:32.244360+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,19,200,7,10.53,56,3,death,0.0,0,0.0,0,,,,,,0
+520,2026-04-04T17:48:21.919273+00:00,69485,psl,Gaddafi Stadium,Rawalpindiz,Islamabad United,2,,,14,152,3,10.86,58,13,middle,0.0,0,0.0,0,,,,,,0
+521,2026-04-04T17:54:14.142557+00:00,69526,ipl,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,2,,,20,204,8,10.2,56,4,death,0.0,0,0.0,0,,,,,,0
+522,2026-04-05T10:04:32.111116+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,1,1,1,1.0,1,1,powerplay,0.0,0,0.0,0,156,155,22,92,40,1
+523,2026-04-05T10:09:59.166268+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,2,8,1,4.0,8,7,powerplay,0.0,0,0.0,0,156,148,22,92,40,1
+524,2026-04-05T10:16:03.494516+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,3,10,2,3.33,10,2,powerplay,0.0,0,0.0,0,156,146,22,92,40,1
+525,2026-04-05T10:21:31.242868+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,4,11,3,2.75,11,1,powerplay,0.0,0,0.0,0,156,145,22,92,40,1
+526,2026-04-05T10:29:52.905864+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,6,22,3,3.67,22,7,powerplay,0.0,0,0.0,0,156,134,22,92,40,1
+527,2026-04-05T10:35:09.877259+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,7,26,3,3.71,22,4,middle,0.0,0,0.0,0,156,130,22,92,40,1
+528,2026-04-05T10:39:07.921185+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,8,29,4,3.62,22,3,middle,0.0,0,0.0,0,156,127,22,92,40,1
+529,2026-04-05T10:43:44.413414+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,9,31,4,3.44,22,2,middle,0.0,0,0.0,0,156,125,22,92,40,1
+530,2026-04-05T10:49:27.811150+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,10,35,4,3.5,22,4,middle,0.0,0,0.0,0,156,121,22,92,40,1
+531,2026-04-05T10:55:57.349753+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,11,51,4,4.64,22,16,middle,0.0,0,0.0,0,156,105,22,92,40,1
+532,2026-04-05T11:00:24.884894+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,12,65,4,5.42,22,14,middle,0.0,0,0.0,0,156,91,22,92,40,1
+533,2026-04-05T11:04:30.068120+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,13,73,4,5.62,22,8,middle,0.0,0,0.0,0,156,83,22,92,40,1
+534,2026-04-05T11:10:25.920211+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,14,92,4,6.57,22,19,middle,0.0,0,0.0,0,156,64,22,92,40,1
+535,2026-04-05T11:15:24.645145+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,15,114,4,7.6,22,22,middle,0.0,0,0.0,0,156,42,22,92,40,1
+536,2026-04-05T11:20:21.869139+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,16,123,4,7.69,22,9,death,0.0,0,0.0,0,156,33,22,92,40,1
+537,2026-04-05T11:28:03.493225+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,17,134,4,7.88,22,11,death,0.0,0,0.0,0,156,22,22,92,40,1
+538,2026-04-05T11:34:31.628939+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,18,144,5,8.0,22,10,death,0.0,0,0.0,0,156,12,22,92,40,1
+539,2026-04-05T11:39:56.564493+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,19,146,7,7.68,22,2,death,0.0,0,0.0,0,156,10,22,92,40,1
+540,2026-04-05T11:45:55.566354+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,1,,,20,156,9,7.8,22,8,death,0.0,0,0.0,0,156,0,22,92,40,1
+541,2026-04-05T12:05:22.730940+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,1,2,0,2.0,2,2,powerplay,0.0,0,0.0,0,,,,,,0
+542,2026-04-05T12:08:09.406867+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,2,16,0,8.0,16,14,powerplay,0.0,0,0.0,0,,,,,,0
+543,2026-04-05T12:11:51.334402+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,3,24,0,8.0,24,8,powerplay,0.0,0,0.0,0,,,,,,0
+544,2026-04-05T12:15:15.494812+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,4,33,0,8.25,33,9,powerplay,0.0,0,0.0,0,,,,,,0
+545,2026-04-05T12:20:41.598591+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,5,38,1,7.6,38,5,powerplay,0.0,0,0.0,0,,,,,,0
+546,2026-04-05T12:25:38.690990+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,6,53,1,8.83,53,15,powerplay,0.0,0,0.0,0,,,,,,0
+547,2026-04-05T12:30:58.625172+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,7,57,1,8.14,53,4,middle,0.0,0,0.0,0,,,,,,0
+548,2026-04-05T12:35:41.980318+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,8,67,1,8.38,53,9,middle,0.0,0,0.0,0,,,,,,0
+549,2026-04-05T12:42:07.265279+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,9,76,1,8.44,53,9,middle,0.0,0,0.0,0,,,,,,0
+550,2026-04-05T12:49:22.260368+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,10,81,2,8.1,53,5,middle,0.0,0,0.0,0,,,,,,0
+551,2026-04-05T12:57:25.906822+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,12,102,2,8.5,53,13,middle,0.0,0,0.0,0,,,,,,0
+552,2026-04-05T13:02:44.486156+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,13,105,3,8.08,53,2,middle,0.0,0,0.0,0,,,,,,0
+553,2026-04-05T13:07:41.576745+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,14,108,4,7.71,53,3,middle,0.0,0,0.0,0,,,,,,0
+554,2026-04-05T13:12:38.561441+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,15,114,4,7.6,53,6,middle,0.0,0,0.0,0,,,,,,0
+555,2026-04-05T13:19:48.525543+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,16,128,4,8.0,53,14,death,0.0,0,0.0,0,,,,,,0
+556,2026-04-05T13:29:43.639645+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,18,144,5,8.0,53,6,death,0.0,0,0.0,0,,,,,,0
+557,2026-04-05T13:37:03.047441+00:00,69527,ipl,Rajiv Gandhi International Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,2,,,19,148,5,7.79,53,4,death,0.0,0,0.0,0,,,,,,0
+558,2026-04-05T14:02:48.662511+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,1,9,0,9.0,9,9,powerplay,0.0,0,0.0,0,166,157,47,61,57,1
+559,2026-04-05T14:05:06.376539+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,1,5,0,5.0,5,5,powerplay,0.0,0,0.0,0,250,245,50,100,96,1
+560,2026-04-05T14:09:33.821018+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,2,11,0,5.5,11,6,powerplay,0.0,0,0.0,0,250,239,50,100,96,1
+561,2026-04-05T14:09:47.016986+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,2,15,1,7.5,15,6,powerplay,0.0,0,0.0,0,166,151,47,61,57,1
+562,2026-04-05T14:13:43.911650+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,3,18,2,6.0,18,3,powerplay,0.0,0,0.0,0,166,148,47,61,57,1
+563,2026-04-05T14:15:08.453642+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,3,17,0,5.67,16,5,powerplay,0.0,0,0.0,0,250,233,50,100,96,1
+564,2026-04-05T14:16:47.927755+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,4,26,2,6.5,26,8,powerplay,0.0,0,0.0,0,166,140,47,61,57,1
+565,2026-04-05T14:18:51.644121+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,4,33,0,8.25,32,16,powerplay,0.0,0,0.0,0,250,217,50,100,96,1
+566,2026-04-05T14:21:09.831375+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,5,37,2,7.4,37,11,powerplay,0.0,0,0.0,0,166,129,47,61,57,1
+567,2026-04-05T14:24:39.708366+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,5,43,1,8.6,42,10,powerplay,0.0,0,0.0,0,250,207,50,100,96,1
+568,2026-04-05T14:25:54.260110+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,6,47,2,7.83,47,10,powerplay,0.0,0,0.0,0,166,119,47,61,57,1
+569,2026-04-05T14:29:38.597415+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,6,51,1,8.5,50,8,powerplay,0.0,0,0.0,0,250,199,50,100,96,1
+570,2026-04-05T14:29:54.021471+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,7,55,2,7.86,47,8,middle,0.0,0,0.0,0,166,111,47,61,57,1
+571,2026-04-05T14:31:58.378467+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,8,58,2,7.25,47,3,middle,0.0,0,0.0,0,166,108,47,61,57,1
+572,2026-04-05T14:35:29.752095+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,7,66,1,9.43,50,15,middle,0.0,0,0.0,0,250,184,50,100,96,1
+573,2026-04-05T14:35:52.015114+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,9,70,2,7.78,47,12,middle,0.0,0,0.0,0,166,96,47,61,57,1
+574,2026-04-05T14:39:52.577884+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,8,76,1,9.5,50,10,middle,0.0,0,0.0,0,250,174,50,100,96,1
+575,2026-04-05T14:43:22.364126+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,10,73,4,7.3,47,3,middle,0.0,0,0.0,0,166,93,47,61,57,1
+576,2026-04-05T14:46:16.783651+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,11,77,4,7.0,47,4,middle,0.0,0,0.0,0,166,89,47,61,57,1
+577,2026-04-05T14:46:52.938953+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,9,87,1,9.67,50,11,middle,0.0,0,0.0,0,250,163,50,100,96,1
+578,2026-04-05T14:49:48.244038+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,12,82,4,6.83,47,5,middle,0.0,0,0.0,0,166,84,47,61,57,1
+579,2026-04-05T14:50:38.589498+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,10,91,1,9.1,50,4,middle,0.0,0,0.0,0,250,159,50,100,96,1
+580,2026-04-05T14:52:55.836916+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,13,85,4,6.54,47,3,middle,0.0,0,0.0,0,166,81,47,61,57,1
+581,2026-04-05T14:56:03.349018+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,11,98,2,8.91,50,7,middle,0.0,0,0.0,0,250,152,50,100,96,1
+582,2026-04-05T14:57:07.868933+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,14,103,4,7.36,47,18,middle,0.0,0,0.0,0,166,63,47,61,57,1
+583,2026-04-05T14:59:50.700238+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,12,114,2,9.5,50,15,middle,0.0,0,0.0,0,250,136,50,100,96,1
+584,2026-04-05T15:00:28.822682+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,15,108,4,7.2,47,5,middle,0.0,0,0.0,0,166,58,47,61,57,1
+585,2026-04-05T15:05:03.849318+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,13,137,2,10.54,50,23,middle,0.0,0,0.0,0,250,113,50,100,96,1
+586,2026-04-05T15:07:45.196944+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,16,119,4,7.44,47,11,death,0.0,0,0.0,0,166,47,47,61,57,1
+587,2026-04-05T15:10:17.258932+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,14,151,2,10.79,50,14,middle,0.0,0,0.0,0,250,99,50,100,96,1
+588,2026-04-05T15:14:10.651618+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,17,123,6,7.24,47,4,death,0.0,0,0.0,0,166,43,47,61,57,1
+589,2026-04-05T15:17:58.756834+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,15,153,3,10.2,50,1,middle,0.0,0,0.0,0,250,97,50,100,96,1
+590,2026-04-05T15:19:02.229224+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,18,135,6,7.5,47,11,death,0.0,0,0.0,0,166,31,47,61,57,1
+591,2026-04-05T15:23:08.296483+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,19,153,6,8.05,47,18,death,0.0,0,0.0,0,166,13,47,61,57,1
+592,2026-04-05T15:26:27.033775+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,16,172,3,10.75,50,19,death,0.0,0,0.0,0,250,78,50,100,96,1
+593,2026-04-05T15:32:06.441345+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,1,,,20,166,7,8.3,47,13,death,0.0,0,0.0,0,166,0,47,61,57,1
+594,2026-04-05T15:33:06.951206+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,17,193,3,11.35,50,20,death,0.0,0,0.0,0,250,57,50,100,96,1
+595,2026-04-05T15:39:50.216591+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,18,207,3,11.5,50,14,death,0.0,0,0.0,0,250,43,50,100,96,1
+596,2026-04-05T15:44:40.256906+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,19,237,3,12.47,50,30,death,0.0,0,0.0,0,250,13,50,100,96,1
+597,2026-04-05T15:48:13.278511+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,1,15,0,15.0,14,14,powerplay,0.0,0,0.0,0,,,,,,0
+598,2026-04-05T15:49:03.695241+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,1,,,20,250,3,12.5,50,13,death,0.0,0,0.0,0,250,0,50,100,96,1
+599,2026-04-05T15:53:00.325813+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,2,31,0,15.5,30,16,powerplay,0.0,0,0.0,0,,,,,,0
+600,2026-04-05T15:56:33.040132+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,3,47,0,15.67,46,16,powerplay,0.0,0,0.0,0,,,,,,0
+601,2026-04-05T15:59:29.120462+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,4,58,0,14.5,57,11,powerplay,0.0,0,0.0,0,,,,,,0
+602,2026-04-05T16:04:55.628482+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,5,71,0,14.2,70,8,powerplay,0.0,0,0.0,0,,,,,,0
+603,2026-04-05T16:10:12.060609+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,1,10,1,10.0,10,10,powerplay,0.0,0,0.0,0,,,,,,0
+604,2026-04-05T16:13:18.589875+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,6,83,1,13.83,82,12,powerplay,0.0,0,0.0,0,,,,,,0
+605,2026-04-05T16:14:47.184766+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,2,18,2,9.0,18,8,powerplay,0.0,0,0.0,0,,,,,,0
+606,2026-04-05T16:17:05.389748+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,7,90,1,12.86,82,7,middle,0.0,0,0.0,0,,,,,,0
+607,2026-04-05T16:19:10.041578+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,8,96,2,12.0,82,6,middle,0.0,0,0.0,0,,,,,,0
+608,2026-04-05T16:23:06.495091+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,4,40,3,10.0,39,10,powerplay,0.0,0,0.0,0,,,,,,0
+609,2026-04-05T16:24:11.666634+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,9,100,2,11.11,82,4,middle,0.0,0,0.0,0,,,,,,0
+610,2026-04-05T16:27:28.834289+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,10,106,2,10.6,82,6,middle,0.0,0,0.0,0,,,,,,0
+611,2026-04-05T16:29:46.159797+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,5,64,3,12.8,62,23,powerplay,0.0,0,0.0,0,,,,,,0
+612,2026-04-05T16:31:01.204807+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,11,114,2,10.36,82,8,middle,0.0,0,0.0,0,,,,,,0
+613,2026-04-05T16:34:45.943029+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,6,77,3,12.83,75,13,powerplay,0.0,0,0.0,0,,,,,,0
+614,2026-04-05T16:36:12.886427+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,12,127,2,10.58,82,13,middle,0.0,0,0.0,0,,,,,,0
+615,2026-04-05T16:43:10.535225+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,7,84,5,12.0,75,7,middle,0.0,0,0.0,0,,,,,,0
+616,2026-04-05T16:46:15.274325+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,13,133,2,10.23,82,6,middle,0.0,0,0.0,0,,,,,,0
+617,2026-04-05T16:46:42.407123+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,8,94,5,11.75,75,10,middle,0.0,0,0.0,0,,,,,,0
+618,2026-04-05T16:49:34.540927+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,14,137,3,9.79,82,4,middle,0.0,0,0.0,0,,,,,,0
+619,2026-04-05T16:49:58.741695+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,9,105,5,11.67,75,11,middle,0.0,0,0.0,0,,,,,,0
+620,2026-04-05T16:52:18.742870+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,15,143,3,9.53,82,6,middle,0.0,0,0.0,0,,,,,,0
+621,2026-04-05T16:56:51.610683+00:00,69486,psl,Gaddafi Stadium,Multan Sultans,Quetta Gladiators,2,,,16,156,4,9.75,82,13,death,0.0,0,0.0,0,,,,,,0
+622,2026-04-05T16:57:54.501433+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,10,109,6,10.9,75,4,middle,0.0,0,0.0,0,,,,,,0
+623,2026-04-05T17:02:53.815956+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,11,117,6,10.64,75,8,middle,0.0,0,0.0,0,,,,,,0
+624,2026-04-05T17:07:50.500673+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,12,136,6,11.33,75,19,middle,0.0,0,0.0,0,,,,,,0
+625,2026-04-05T17:11:31.999459+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,13,139,6,10.69,75,3,middle,0.0,0,0.0,0,,,,,,0
+626,2026-04-05T17:17:33.400635+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,14,157,6,11.21,75,18,middle,0.0,0,0.0,0,,,,,,0
+627,2026-04-05T17:20:38.491124+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,15,165,6,11.0,75,8,middle,0.0,0,0.0,0,,,,,,0
+628,2026-04-05T17:28:50.679241+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,16,178,7,11.12,75,13,death,0.0,0,0.0,0,,,,,,0
+629,2026-04-05T17:34:02.384665+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,17,180,8,10.59,75,2,death,0.0,0,0.0,0,,,,,,0
+630,2026-04-05T17:38:06.863261+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,18,190,9,10.56,75,10,death,0.0,0,0.0,0,,,,,,0
+631,2026-04-05T17:42:39.234380+00:00,69528,ipl,M.Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,2,,,19,204,9,10.74,75,14,death,0.0,0,0.0,0,,,,,,0
+632,2026-04-06T14:04:13.008203+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,182,172,52,76,53,1
+633,2026-04-06T14:04:37.713102+00:00,69529,ipl,Eden Gardens,Kolkata Knight Riders,Punjab Kings,1,,,1,12,0,12.0,12,12,powerplay,0.0,0,0.0,0,,,,,,0
+634,2026-04-06T14:08:10.350274+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,2,11,0,5.5,11,1,powerplay,0.0,0,0.0,0,182,171,52,76,53,1
+635,2026-04-06T14:10:27.936537+00:00,69529,ipl,Eden Gardens,Kolkata Knight Riders,Punjab Kings,1,,,2,16,2,8.0,16,4,powerplay,0.0,0,0.0,0,,,,,,0
+636,2026-04-06T14:15:13.691292+00:00,69529,ipl,Eden Gardens,Kolkata Knight Riders,Punjab Kings,1,,,3,20,2,6.67,20,4,powerplay,0.0,0,0.0,0,,,,,,0
+637,2026-04-06T14:18:48.338563+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,4,28,1,7.0,28,9,powerplay,0.0,0,0.0,0,182,154,52,76,53,1
+638,2026-04-06T14:23:12.132376+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,5,44,1,8.8,44,16,powerplay,0.0,0,0.0,0,182,138,52,76,53,1
+639,2026-04-06T14:29:41.502066+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,6,52,2,8.67,52,8,powerplay,0.0,0,0.0,0,182,130,52,76,53,1
+640,2026-04-06T14:35:20.521139+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,7,59,2,8.43,52,7,middle,0.0,0,0.0,0,182,123,52,76,53,1
+641,2026-04-06T14:40:43.866996+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,8,69,3,8.62,52,10,middle,0.0,0,0.0,0,182,113,52,76,53,1
+642,2026-04-06T14:43:52.354943+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,9,72,3,8.0,52,3,middle,0.0,0,0.0,0,182,110,52,76,53,1
+643,2026-04-06T14:48:04.657284+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,10,81,4,8.1,52,9,middle,0.0,0,0.0,0,182,101,52,76,53,1
+644,2026-04-06T14:51:23.685334+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,11,84,4,7.64,52,3,middle,0.0,0,0.0,0,182,98,52,76,53,1
+645,2026-04-06T14:54:43.952524+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,12,94,5,7.83,52,10,middle,0.0,0,0.0,0,182,88,52,76,53,1
+646,2026-04-06T15:00:37.291874+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,13,113,5,8.69,52,19,middle,0.0,0,0.0,0,182,69,52,76,53,1
+647,2026-04-06T15:05:33.288376+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,14,120,5,8.57,52,7,middle,0.0,0,0.0,0,182,62,52,76,53,1
+648,2026-04-06T15:14:36.529827+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,15,128,6,8.53,52,8,middle,0.0,0,0.0,0,182,54,52,76,53,1
+649,2026-04-06T15:23:14.306846+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,16,136,7,8.5,52,8,death,0.0,0,0.0,0,182,46,52,76,53,1
+650,2026-04-06T15:28:08.477979+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,17,150,7,8.82,52,14,death,0.0,0,0.0,0,182,32,52,76,53,1
+651,2026-04-06T15:33:23.138813+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,18,153,8,8.5,52,2,death,0.0,0,0.0,0,182,29,52,76,53,1
+652,2026-04-06T15:39:50.239250+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,19,166,8,8.74,52,13,death,0.0,0,0.0,0,182,16,52,76,53,1
+653,2026-04-06T15:47:48.799536+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,1,,,20,182,8,9.1,52,16,death,0.0,0,0.0,0,182,0,52,76,53,1
+654,2026-04-06T16:02:37.775970+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,1,7,0,7.0,7,7,powerplay,0.0,0,0.0,0,,,,,,0
+655,2026-04-06T16:08:05.222727+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,2,18,1,9.0,18,11,powerplay,0.0,0,0.0,0,,,,,,0
+656,2026-04-06T16:11:37.639132+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,3,24,1,8.0,24,6,powerplay,0.0,0,0.0,0,,,,,,0
+657,2026-04-06T16:17:42.139471+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,4,35,1,8.75,35,11,powerplay,0.0,0,0.0,0,,,,,,0
+658,2026-04-06T16:18:18.461581+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,5,45,1,9.0,45,10,powerplay,0.0,0,0.0,0,,,,,,0
+659,2026-04-06T16:23:34.316421+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,6,58,1,9.67,58,13,powerplay,0.0,0,0.0,0,,,,,,0
+660,2026-04-06T16:27:46.349016+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,7,62,1,8.86,58,4,middle,0.0,0,0.0,0,,,,,,0
+661,2026-04-06T16:31:33.082181+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,8,78,1,9.75,58,16,middle,0.0,0,0.0,0,,,,,,0
+662,2026-04-06T16:35:57.426977+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,9,84,1,9.33,58,6,middle,0.0,0,0.0,0,,,,,,0
+663,2026-04-06T16:42:37.011736+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,10,110,1,11.0,58,26,middle,0.0,0,0.0,0,,,,,,0
+664,2026-04-06T16:49:31.892884+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,11,122,1,11.09,58,12,middle,0.0,0,0.0,0,,,,,,0
+665,2026-04-06T16:55:02.795421+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,12,130,2,10.83,58,8,middle,0.0,0,0.0,0,,,,,,0
+666,2026-04-06T17:00:42.033335+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,13,138,2,10.62,58,8,middle,0.0,0,0.0,0,,,,,,0
+667,2026-04-06T17:06:35.221153+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,14,145,3,10.36,58,6,middle,0.0,0,0.0,0,,,,,,0
+668,2026-04-06T17:11:23.636112+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,15,161,3,10.73,58,16,middle,0.0,0,0.0,0,,,,,,0
+669,2026-04-06T17:16:48.701483+00:00,69487,psl,Gaddafi Stadium,Multan Sultans,Rawalpindiz,2,,,16,176,3,11.0,58,11,death,0.0,0,0.0,0,,,,,,0
+670,2026-04-07T16:50:16.472578+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,2,36,0,18.0,36,14,powerplay,0.0,0,0.0,0,150,114,89,61,0,1
+671,2026-04-07T16:55:43.669528+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,3,58,0,19.33,58,22,powerplay,0.0,0,0.0,0,150,92,89,61,0,1
+672,2026-04-07T17:00:35.470538+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,4,61,0,15.25,61,3,powerplay,0.0,0,0.0,0,150,89,89,61,0,1
+673,2026-04-07T17:05:47.395902+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,5,80,1,16.0,80,18,powerplay,0.0,0,0.0,0,150,70,89,61,0,1
+674,2026-04-07T17:12:32.347811+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,6,89,2,14.83,89,9,powerplay,0.0,0,0.0,0,150,61,89,61,0,1
+675,2026-04-07T17:16:29.918966+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,7,97,2,13.86,89,8,middle,0.0,0,0.0,0,150,53,89,61,0,1
+676,2026-04-07T17:21:44.246788+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,8,110,2,13.75,89,12,middle,0.0,0,0.0,0,150,40,89,61,0,1
+677,2026-04-07T17:26:49.721599+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,9,122,3,13.56,89,11,middle,0.0,0,0.0,0,150,28,89,61,0,1
+678,2026-04-07T17:32:40.323826+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,10,132,3,13.2,89,10,middle,0.0,0,0.0,0,150,18,89,61,0,1
+679,2026-04-07T17:42:47.577872+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,1,,,11,150,3,13.64,89,18,middle,0.0,0,0.0,0,150,0,89,61,0,1
+680,2026-04-07T17:59:13.466120+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,1,10,1,10.0,10,10,powerplay,0.0,0,0.0,0,,,,,,0
+681,2026-04-07T18:06:34.555211+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,2,22,2,11.0,22,12,powerplay,0.0,0,0.0,0,,,,,,0
+682,2026-04-07T18:13:42.785788+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,3,25,3,8.33,25,3,powerplay,0.0,0,0.0,0,,,,,,0
+683,2026-04-07T18:18:21.286197+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,4,36,3,9.0,35,10,powerplay,0.0,0,0.0,0,,,,,,0
+684,2026-04-07T18:23:49.983260+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,5,46,5,9.2,45,10,powerplay,0.0,0,0.0,0,,,,,,0
+685,2026-04-07T18:29:06.554523+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,6,60,5,10.0,59,14,powerplay,0.0,0,0.0,0,,,,,,0
+686,2026-04-07T18:33:42.754005+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,7,75,5,10.71,59,15,middle,0.0,0,0.0,0,,,,,,0
+687,2026-04-07T18:41:43.364990+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,8,94,6,11.75,59,19,middle,0.0,0,0.0,0,,,,,,0
+688,2026-04-07T18:47:10.384052+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,9,107,7,11.89,59,9,middle,0.0,0,0.0,0,,,,,,0
+689,2026-04-07T18:53:05.653309+00:00,69530,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Mumbai Indians,2,,,10,116,8,11.6,59,9,middle,0.0,0,0.0,0,,,,,,0
+690,2026-04-08T14:03:56.345742+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,1,10,0,10.0,10,10,powerplay,0.0,0,0.0,0,145,135,47,64,26,1
+691,2026-04-08T14:05:00.195195+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,1,11,0,11.0,11,11,powerplay,0.0,0,0.0,0,210,199,68,93,49,1
+692,2026-04-08T14:08:43.174132+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,2,19,0,9.5,19,9,powerplay,0.0,0,0.0,0,145,126,47,64,26,1
+693,2026-04-08T14:09:59.000089+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,2,18,0,9.0,18,7,powerplay,0.0,0,0.0,0,210,192,68,93,49,1
+694,2026-04-08T14:14:00.932085+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,3,26,1,8.67,26,7,powerplay,0.0,0,0.0,0,145,119,47,64,26,1
+695,2026-04-08T14:16:54.904833+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,4,32,1,8.0,32,6,powerplay,0.0,0,0.0,0,145,113,47,64,26,1
+696,2026-04-08T14:18:58.884037+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,3,27,1,9.0,27,9,powerplay,0.0,0,0.0,0,210,183,68,93,49,1
+697,2026-04-08T14:22:30.619473+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,5,34,4,6.8,34,2,powerplay,0.0,0,0.0,0,145,111,47,64,26,1
+698,2026-04-08T14:22:43.220819+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,4,40,1,10.0,40,13,powerplay,0.0,0,0.0,0,210,170,68,93,49,1
+699,2026-04-08T14:28:08.132539+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,6,51,4,8.5,47,13,powerplay,0.0,0,0.0,0,145,94,47,64,26,1
+700,2026-04-08T14:28:08.867886+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,5,63,1,12.6,63,23,powerplay,0.0,0,0.0,0,210,147,68,93,49,1
+701,2026-04-08T14:32:07.332678+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,7,56,4,8.0,47,5,middle,0.0,0,0.0,0,145,89,47,64,26,1
+702,2026-04-08T14:35:03.151464+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,8,70,4,8.75,47,14,middle,0.0,0,0.0,0,145,75,47,64,26,1
+703,2026-04-08T14:38:35.312131+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,9,77,4,8.56,47,7,middle,0.0,0,0.0,0,145,68,47,64,26,1
+704,2026-04-08T14:38:36.007599+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,7,77,1,11.0,68,9,middle,0.0,0,0.0,0,210,133,68,93,49,1
+705,2026-04-08T14:43:09.941094+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,10,86,4,8.6,47,9,middle,0.0,0,0.0,0,145,59,47,64,26,1
+706,2026-04-08T14:47:57.009131+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,9,90,2,10.0,68,5,middle,0.0,0,0.0,0,210,120,68,93,49,1
+707,2026-04-08T14:50:39.024377+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,11,92,4,8.36,47,6,middle,0.0,0,0.0,0,145,53,47,64,26,1
+708,2026-04-08T14:51:40.995201+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,10,101,2,10.1,68,11,middle,0.0,0,0.0,0,210,109,68,93,49,1
+709,2026-04-08T14:53:34.394839+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,12,101,4,8.42,47,9,middle,0.0,0,0.0,0,145,44,47,64,26,1
+710,2026-04-08T14:56:04.586343+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,11,110,2,10.0,68,9,middle,0.0,0,0.0,0,210,100,68,93,49,1
+711,2026-04-08T14:56:17.045009+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,13,109,4,8.38,47,4,middle,0.0,0,0.0,0,145,36,47,64,26,1
+712,2026-04-08T15:02:18.372492+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,12,133,2,11.08,68,23,middle,0.0,0,0.0,0,210,77,68,93,49,1
+713,2026-04-08T15:02:31.089785+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,14,116,4,8.29,47,7,middle,0.0,0,0.0,0,145,29,47,64,26,1
+714,2026-04-08T15:06:41.463956+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,13,142,2,10.92,68,9,middle,0.0,0,0.0,0,210,68,68,93,49,1
+715,2026-04-08T15:07:31.074182+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,15,119,5,7.93,47,3,middle,0.0,0,0.0,0,145,26,47,64,26,1
+716,2026-04-08T15:10:50.891163+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,14,152,2,10.86,68,10,middle,0.0,0,0.0,0,210,58,68,93,49,1
+717,2026-04-08T15:12:45.260240+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,16,131,5,8.19,47,12,death,0.0,0,0.0,0,145,14,47,64,26,1
+718,2026-04-08T15:16:54.753471+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,15,161,2,10.73,68,9,middle,0.0,0,0.0,0,210,49,68,93,49,1
+719,2026-04-08T15:17:57.768057+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,17,137,8,8.06,47,6,death,0.0,0,0.0,0,145,8,47,64,26,1
+720,2026-04-08T15:25:17.043976+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,16,169,2,10.56,68,8,death,0.0,0,0.0,0,210,41,68,93,49,1
+721,2026-04-08T15:25:41.016851+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,1,,,18,145,9,8.06,47,8,death,0.0,0,0.0,0,145,0,47,64,26,1
+722,2026-04-08T15:30:51.838235+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,17,183,2,10.76,68,14,death,0.0,0,0.0,0,210,27,68,93,49,1
+723,2026-04-08T15:36:41.801776+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,18,186,3,10.33,68,3,death,0.0,0,0.0,0,210,24,68,93,49,1
+724,2026-04-08T15:41:15.107070+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,19,198,3,10.42,68,13,death,0.0,0,0.0,0,210,12,68,93,49,1
+725,2026-04-08T15:47:31.216337+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,1,,,20,210,4,10.5,68,12,death,0.0,0,0.0,0,210,0,68,93,49,1
+726,2026-04-08T15:51:04.022374+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,1,11,0,11.0,10,10,powerplay,0.0,0,0.0,0,,,,,,0
+727,2026-04-08T15:56:01.385942+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,2,17,1,8.5,16,6,powerplay,0.0,0,0.0,0,,,,,,0
+728,2026-04-08T16:02:53.086953+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,4,29,1,7.25,28,10,powerplay,0.0,0,0.0,0,,,,,,0
+729,2026-04-08T16:08:06.233987+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,5,42,1,8.4,41,12,powerplay,0.0,0,0.0,0,,,,,,0
+730,2026-04-08T16:09:58.597773+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,6,56,1,9.33,55,14,powerplay,0.0,0,0.0,0,,,,,,0
+731,2026-04-08T16:11:00.409191+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,2,20,0,10.0,20,6,powerplay,0.0,0,0.0,0,,,,,,0
+732,2026-04-08T16:15:11.315994+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,7,61,1,8.71,55,5,middle,0.0,0,0.0,0,,,,,,0
+733,2026-04-08T16:17:03.527485+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,3,27,0,9.0,27,7,powerplay,0.0,0,0.0,0,,,,,,0
+734,2026-04-08T16:18:43.081015+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,8,66,1,8.25,55,5,middle,0.0,0,0.0,0,,,,,,0
+735,2026-04-08T16:21:49.831440+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,4,36,0,9.0,36,9,powerplay,0.0,0,0.0,0,,,,,,0
+736,2026-04-08T16:24:08.399717+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,9,69,2,7.67,55,3,middle,0.0,0,0.0,0,,,,,,0
+737,2026-04-08T16:25:23.025970+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,5,40,0,8.0,40,4,powerplay,0.0,0,0.0,0,,,,,,0
+738,2026-04-08T16:28:20.434884+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,10,78,2,7.8,55,9,middle,0.0,0,0.0,0,,,,,,0
+739,2026-04-08T16:30:38.525663+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,6,63,0,10.5,63,23,powerplay,0.0,0,0.0,0,,,,,,0
+740,2026-04-08T16:37:30.908514+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,7,71,0,10.14,63,8,middle,0.0,0,0.0,0,,,,,,0
+741,2026-04-08T16:38:07.992878+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,11,79,2,7.18,55,1,middle,0.0,0,0.0,0,,,,,,0
+742,2026-04-08T16:41:06.418309+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,8,76,0,9.5,63,5,middle,0.0,0,0.0,0,,,,,,0
+743,2026-04-08T16:42:19.946064+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,12,86,2,7.17,55,7,middle,0.0,0,0.0,0,,,,,,0
+744,2026-04-08T16:47:32.279636+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,9,97,1,10.78,63,21,middle,0.0,0,0.0,0,,,,,,0
+745,2026-04-08T16:48:11.306087+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,13,101,2,7.77,55,15,middle,0.0,0,0.0,0,,,,,,0
+746,2026-04-08T16:53:49.823700+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,14,105,3,7.5,55,4,middle,0.0,0,0.0,0,,,,,,0
+747,2026-04-08T16:58:24.185757+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,15,116,4,7.73,55,11,middle,0.0,0,0.0,0,,,,,,0
+748,2026-04-08T17:02:37.242677+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,16,123,4,7.69,55,7,death,0.0,0,0.0,0,,,,,,0
+749,2026-04-08T17:10:54.615739+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,17,125,5,7.35,55,1,death,0.0,0,0.0,0,,,,,,0
+750,2026-04-08T17:11:20.526374+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,10,101,3,10.1,63,4,middle,0.0,0,0.0,0,,,,,,0
+751,2026-04-08T17:11:44.608135+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,11,116,3,10.55,63,11,middle,0.0,0,0.0,0,,,,,,0
+752,2026-04-08T17:11:57.921559+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,12,123,3,10.25,63,6,middle,0.0,0,0.0,0,,,,,,0
+753,2026-04-08T17:12:35.893864+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,13,130,3,10.0,63,12,middle,0.0,0,0.0,0,,,,,,0
+754,2026-04-08T17:16:30.827207+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,14,134,4,9.57,63,4,middle,0.0,0,0.0,0,,,,,,0
+755,2026-04-08T17:20:55.147230+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,18,127,6,7.06,55,2,death,0.0,0,0.0,0,,,,,,0
+756,2026-04-08T17:23:13.797071+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,15,142,4,9.47,63,8,middle,0.0,0,0.0,0,,,,,,0
+757,2026-04-08T17:27:25.644117+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,19,132,6,6.95,55,5,death,0.0,0,0.0,0,,,,,,0
+758,2026-04-08T17:32:36.670973+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,16,157,4,9.81,63,15,death,0.0,0,0.0,0,,,,,,0
+759,2026-04-08T17:35:31.572092+00:00,69488,psl,National Stadium,Hyderabad Kingsmen,Peshawar Zalmi,2,,,20,146,6,7.3,55,14,death,0.0,0,0.0,0,,,,,,0
+760,2026-04-08T17:40:19.059023+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,17,166,6,9.76,63,8,death,0.0,0,0.0,0,,,,,,0
+761,2026-04-08T17:53:44.543959+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,19,198,6,10.42,63,23,death,0.0,0,0.0,0,,,,,,0
+762,2026-04-08T18:06:07.794639+00:00,69531,ipl,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,2,,,20,209,8,10.45,63,11,death,0.0,0,0.0,0,,,,,,0
+763,2026-04-09T09:39:15.904762+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,2,4,1,2.0,4,2,powerplay,0.0,0,0.0,0,100,96,28,52,12,1
+764,2026-04-09T09:43:51.595025+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,3,10,1,3.33,9,5,powerplay,0.0,0,0.0,0,100,90,28,52,12,1
+765,2026-04-09T09:49:07.661105+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,4,21,1,5.25,20,11,powerplay,0.0,0,0.0,0,100,79,28,52,12,1
+766,2026-04-09T10:01:33.114803+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,6,34,2,5.67,32,6,powerplay,0.0,0,0.0,0,100,66,28,52,12,1
+767,2026-04-09T10:05:16.648890+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,7,38,2,5.43,32,4,middle,0.0,0,0.0,0,100,62,28,52,12,1
+768,2026-04-09T10:13:40.550823+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,9,47,4,5.22,32,6,middle,0.0,0,0.0,0,100,53,28,52,12,1
+769,2026-04-09T10:17:01.327646+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,10,50,4,5.0,32,3,middle,0.0,0,0.0,0,100,50,28,52,12,1
+770,2026-04-09T10:21:25.555678+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,11,65,4,5.91,32,15,middle,0.0,0,0.0,0,100,35,28,52,12,1
+771,2026-04-09T10:25:38.486124+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,12,72,5,6.0,32,7,middle,0.0,0,0.0,0,100,28,28,52,12,1
+772,2026-04-09T10:28:47.514640+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,13,74,5,5.69,32,2,middle,0.0,0,0.0,0,100,26,28,52,12,1
+773,2026-04-09T10:34:27.481032+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,14,78,6,5.57,32,4,middle,0.0,0,0.0,0,100,22,28,52,12,1
+774,2026-04-09T10:39:03.635577+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,15,86,6,5.73,32,8,middle,0.0,0,0.0,0,100,14,28,52,12,1
+775,2026-04-09T10:48:44.397312+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,16,94,7,5.88,32,6,death,0.0,0,0.0,0,100,6,28,52,12,1
+776,2026-04-09T10:52:04.687510+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,17,95,7,5.59,32,1,death,0.0,0,0.0,0,100,5,28,52,12,1
+777,2026-04-09T11:00:06.038103+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,1,,,18,99,9,5.5,32,4,death,0.0,0,0.0,0,100,1,28,52,12,1
+778,2026-04-09T11:22:29.257534+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,1,9,0,9.0,5,5,powerplay,0.0,0,0.0,0,,,,,,0
+779,2026-04-09T11:33:28.711588+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,3,19,1,6.33,15,8,powerplay,0.0,0,0.0,0,,,,,,0
+780,2026-04-09T11:38:06.505596+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,4,31,1,7.75,27,12,powerplay,0.0,0,0.0,0,,,,,,0
+781,2026-04-09T11:42:54.736486+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,5,40,1,8.0,36,9,powerplay,0.0,0,0.0,0,,,,,,0
+782,2026-04-09T11:48:06.299025+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,6,50,1,8.33,45,9,powerplay,0.0,0,0.0,0,,,,,,0
+783,2026-04-09T11:53:53.199814+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,7,57,1,8.14,45,7,middle,0.0,0,0.0,0,,,,,,0
+784,2026-04-09T11:57:10.094643+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,8,68,1,8.5,45,11,middle,0.0,0,0.0,0,,,,,,0
+785,2026-04-09T12:01:34.334755+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,9,78,1,8.67,46,9,middle,0.0,0,0.0,0,,,,,,0
+786,2026-04-09T12:05:13.536377+00:00,69489,psl,National Stadium,Lahore Qalandars,Islamabad United,2,,,10,98,1,9.8,46,20,middle,0.0,0,0.0,0,,,,,,0
+787,2026-04-09T14:04:23.974289+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,1,6,0,6.0,6,6,powerplay,0.0,0,0.0,0,181,175,55,58,64,1
+788,2026-04-09T14:04:49.004930+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,1,2,1,2.0,2,2,powerplay,0.0,0,0.0,0,246,244,66,104,75,1
+789,2026-04-09T14:14:44.473782+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,3,26,1,8.67,26,7,powerplay,0.0,0,0.0,0,246,220,66,104,75,1
+790,2026-04-09T14:15:47.325291+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,3,21,1,7.0,21,5,powerplay,0.0,0,0.0,0,181,160,55,58,64,1
+791,2026-04-09T14:18:07.581990+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,4,41,1,10.25,41,15,powerplay,0.0,0,0.0,0,246,205,66,104,75,1
+792,2026-04-09T14:20:02.262254+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,4,30,1,7.5,30,9,powerplay,0.0,0,0.0,0,181,151,55,58,64,1
+793,2026-04-09T14:23:22.346149+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,5,40,1,8.0,40,10,powerplay,0.0,0,0.0,0,181,141,55,58,64,1
+794,2026-04-09T14:24:37.912621+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,5,54,1,10.8,54,13,powerplay,0.0,0,0.0,0,246,192,66,104,75,1
+795,2026-04-09T14:28:01.764951+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,6,56,1,9.33,55,15,powerplay,0.0,0,0.0,0,181,125,55,58,64,1
+796,2026-04-09T14:29:43.324938+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,6,66,1,11.0,66,12,powerplay,0.0,0,0.0,0,246,180,66,104,75,1
+797,2026-04-09T14:33:04.339474+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,7,71,1,10.14,66,5,middle,0.0,0,0.0,0,246,175,66,104,75,1
+798,2026-04-09T14:33:54.433695+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,7,65,1,9.29,55,9,middle,0.0,0,0.0,0,181,116,55,58,64,1
+799,2026-04-09T14:36:49.476285+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,8,82,1,10.25,66,11,middle,0.0,0,0.0,0,246,164,66,104,75,1
+800,2026-04-09T14:38:29.424225+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,8,74,1,9.25,55,8,middle,0.0,0,0.0,0,181,107,55,58,64,1
+801,2026-04-09T14:41:24.310010+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,9,96,1,10.67,66,14,middle,0.0,0,0.0,0,246,150,66,104,75,1
+802,2026-04-09T14:43:17.461580+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,9,89,1,9.89,55,15,middle,0.0,0,0.0,0,181,92,55,58,64,1
+803,2026-04-09T14:44:19.691773+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,10,102,1,10.2,66,6,middle,0.0,0,0.0,0,246,144,66,104,75,1
+804,2026-04-09T14:48:29.478731+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,10,98,1,9.8,55,9,middle,0.0,0,0.0,0,181,83,55,58,64,1
+805,2026-04-09T14:51:23.543469+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,11,117,1,10.64,66,15,middle,0.0,0,0.0,0,246,129,66,104,75,1
+806,2026-04-09T14:54:29.976776+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,11,102,2,9.27,55,4,middle,0.0,0,0.0,0,181,79,55,58,64,1
+807,2026-04-09T14:54:55.237727+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,12,132,1,11.0,66,15,middle,0.0,0,0.0,0,246,114,66,104,75,1
+808,2026-04-09T14:59:53.874688+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,12,106,3,8.83,55,4,middle,0.0,0,0.0,0,181,75,55,58,64,1
+809,2026-04-09T15:03:03.325735+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,14,161,1,11.5,66,11,middle,0.0,0,0.0,0,246,85,66,104,75,1
+810,2026-04-09T15:03:27.117588+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,13,111,3,8.54,55,5,middle,0.0,0,0.0,0,181,70,55,58,64,1
+811,2026-04-09T15:07:37.320717+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,15,170,1,11.33,66,9,middle,0.0,0,0.0,0,246,76,66,104,75,1
+812,2026-04-09T15:09:30.416305+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,14,112,4,8.0,55,1,middle,0.0,0,0.0,0,181,69,55,58,64,1
+813,2026-04-09T15:11:22.122735+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,16,186,1,11.62,66,16,death,0.0,0,0.0,0,246,60,66,104,75,1
+814,2026-04-09T15:15:42.112287+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,15,115,4,7.67,55,3,middle,0.0,0,0.0,0,181,66,55,58,64,1
+815,2026-04-09T15:19:24.456334+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,17,197,3,11.59,66,11,death,0.0,0,0.0,0,246,49,66,104,75,1
+816,2026-04-09T15:20:52.555660+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,16,127,4,7.94,55,12,death,0.0,0,0.0,0,181,54,55,58,64,1
+817,2026-04-09T15:21:54.965486+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,18,206,3,11.44,66,9,death,0.0,0,0.0,0,246,40,66,104,75,1
+818,2026-04-09T15:23:58.892410+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,17,144,4,8.47,55,17,death,0.0,0,0.0,0,181,37,55,58,64,1
+819,2026-04-09T15:27:44.175009+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,19,227,3,11.95,66,20,death,0.0,0,0.0,0,246,19,66,104,75,1
+820,2026-04-09T15:32:26.513491+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,18,157,4,8.72,55,13,death,0.0,0,0.0,0,181,24,55,58,64,1
+821,2026-04-09T15:33:29.189373+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,1,,,20,246,3,12.3,66,19,death,0.0,0,0.0,0,246,0,66,104,75,1
+822,2026-04-09T15:38:28.306720+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,19,169,4,8.89,55,11,death,0.0,0,0.0,0,181,12,55,58,64,1
+823,2026-04-09T15:45:04.457762+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,1,,,20,181,4,9.05,55,11,death,0.0,0,0.0,0,181,0,55,58,64,1
+824,2026-04-09T15:52:54.605475+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,1,4,1,4.0,4,4,powerplay,0.0,0,0.0,0,,,,,,0
+825,2026-04-09T15:59:33.813761+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,2,8,2,4.0,8,4,powerplay,0.0,0,0.0,0,,,,,,0
+826,2026-04-09T16:04:34.028429+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,1,6,0,6.0,6,6,powerplay,0.0,0,0.0,0,,,,,,0
+827,2026-04-09T16:06:13.958252+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,3,13,3,4.33,13,5,powerplay,0.0,0,0.0,0,,,,,,0
+828,2026-04-09T16:08:54.476521+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,2,13,0,6.5,12,6,powerplay,0.0,0,0.0,0,,,,,,0
+829,2026-04-09T16:11:48.560476+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,4,23,3,5.75,23,10,powerplay,0.0,0,0.0,0,,,,,,0
+830,2026-04-09T16:13:52.256409+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,3,31,0,10.33,29,17,powerplay,0.0,0,0.0,0,,,,,,0
+831,2026-04-09T16:20:57.530308+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,6,33,3,5.5,33,8,powerplay,0.0,0,0.0,0,,,,,,0
+832,2026-04-09T16:25:41.571001+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,5,49,2,9.8,47,8,powerplay,0.0,0,0.0,0,,,,,,0
+833,2026-04-09T16:28:22.826985+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,7,39,4,5.57,33,5,middle,0.0,0,0.0,0,,,,,,0
+834,2026-04-09T16:29:12.903594+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,6,56,2,9.33,54,7,powerplay,0.0,0,0.0,0,,,,,,0
+835,2026-04-09T16:33:33.862820+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,8,50,4,6.25,33,11,middle,0.0,0,0.0,0,,,,,,0
+836,2026-04-09T16:34:37.042997+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,7,67,2,9.57,54,11,middle,0.0,0,0.0,0,,,,,,0
+837,2026-04-09T16:38:20.450435+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,8,72,2,9.0,54,4,middle,0.0,0,0.0,0,,,,,,0
+838,2026-04-09T16:38:20.914015+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,9,53,5,5.89,33,2,middle,0.0,0,0.0,0,,,,,,0
+839,2026-04-09T16:43:44.150364+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,10,60,5,6.0,33,7,middle,0.0,0,0.0,0,,,,,,0
+840,2026-04-09T16:48:44.651919+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,11,65,6,5.91,33,4,middle,0.0,0,0.0,0,,,,,,0
+841,2026-04-09T16:49:46.921030+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,9,84,3,9.33,54,12,middle,0.0,0,0.0,0,,,,,,0
+842,2026-04-09T16:53:19.510438+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,12,74,6,6.17,33,9,middle,0.0,0,0.0,0,,,,,,0
+843,2026-04-09T16:53:32.008730+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,10,85,3,8.5,54,1,middle,0.0,0,0.0,0,,,,,,0
+844,2026-04-09T16:59:44.911168+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,11,90,3,8.18,54,5,middle,0.0,0,0.0,0,,,,,,0
+845,2026-04-09T17:07:40.375834+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,12,96,4,8.0,54,6,middle,0.0,0,0.0,0,,,,,,0
+846,2026-04-09T17:10:22.339965+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,13,104,5,8.0,54,8,middle,0.0,0,0.0,0,,,,,,0
+847,2026-04-09T17:15:45.413902+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,14,119,5,8.5,54,15,middle,0.0,0,0.0,0,,,,,,0
+848,2026-04-09T17:22:27.407448+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,13,81,6,6.23,33,7,middle,0.0,0,0.0,0,,,,,,0
+849,2026-04-09T17:23:06.110923+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,15,127,6,8.47,54,8,middle,0.0,0,0.0,0,,,,,,0
+850,2026-04-09T17:26:39.569264+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,16,128,7,8.0,54,1,death,0.0,0,0.0,0,,,,,,0
+851,2026-04-09T17:28:08.979907+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,14,81,8,5.79,33,0,middle,0.0,0,0.0,0,,,,,,0
+852,2026-04-09T17:31:29.012843+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,17,139,7,8.18,54,11,death,0.0,0,0.0,0,,,,,,0
+853,2026-04-09T17:32:44.140362+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,15,86,9,5.73,33,5,middle,0.0,0,0.0,0,,,,,,0
+854,2026-04-09T17:37:08.173287+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,18,152,7,8.44,54,13,death,0.0,0,0.0,0,,,,,,0
+855,2026-04-09T17:37:58.247370+00:00,69490,psl,National Stadium,Karachi Kings,Peshawar Zalmi,2,,,16,87,9,5.44,33,1,death,0.0,0,0.0,0,,,,,,0
+856,2026-04-09T17:41:18.065337+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,19,168,7,8.84,54,16,death,0.0,0,0.0,0,,,,,,0
+857,2026-04-09T17:50:05.896984+00:00,69532,ipl,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,2,,,20,182,7,9.1,54,13,death,0.0,0,0.0,0,,,,,,0
+858,2026-04-10T14:03:08.145799+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,1,4,0,4.0,4,4,powerplay,0.0,0,0.0,0,,,,,,0
+859,2026-04-10T14:08:01.561040+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,2,12,0,6.0,12,8,powerplay,0.0,0,0.0,0,,,,,,0
+860,2026-04-10T14:12:44.635611+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,3,22,0,7.33,22,10,powerplay,0.0,0,0.0,0,,,,,,0
+861,2026-04-10T14:18:13.917021+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,4,29,1,7.25,29,7,powerplay,0.0,0,0.0,0,,,,,,0
+862,2026-04-10T14:21:12.373698+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,5,39,1,7.8,38,9,powerplay,0.0,0,0.0,0,,,,,,0
+863,2026-04-10T14:26:54.449092+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,6,43,1,7.17,42,4,powerplay,0.0,0,0.0,0,,,,,,0
+864,2026-04-10T14:29:02.117297+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,7,46,1,6.57,42,3,middle,0.0,0,0.0,0,,,,,,0
+865,2026-04-10T14:32:41.132691+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,8,50,1,6.25,42,4,middle,0.0,0,0.0,0,,,,,,0
+866,2026-04-10T14:38:06.681148+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,9,58,1,6.44,42,7,middle,0.0,0,0.0,0,,,,,,0
+867,2026-04-10T14:40:13.993305+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,10,70,1,7.0,42,12,middle,0.0,0,0.0,0,,,,,,0
+868,2026-04-10T14:43:33.034005+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,11,77,1,7.0,42,7,middle,0.0,0,0.0,0,,,,,,0
+869,2026-04-10T14:48:46.989763+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,12,83,1,6.92,42,6,middle,0.0,0,0.0,0,,,,,,0
+870,2026-04-10T14:52:45.386868+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,13,94,1,7.23,42,7,middle,0.0,0,0.0,0,,,,,,0
+871,2026-04-10T14:58:35.155711+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,14,108,1,7.71,42,13,middle,0.0,0,0.0,0,,,,,,0
+872,2026-04-10T15:06:32.542539+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,15,121,2,8.07,42,13,middle,0.0,0,0.0,0,,,,,,0
+873,2026-04-10T15:12:44.830038+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,16,134,3,8.38,42,13,death,0.0,0,0.0,0,,,,,,0
+874,2026-04-10T15:16:09.585329+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,1,13,1,13.0,13,13,powerplay,0.0,0,0.0,0,201,188,56,77,62,1
+875,2026-04-10T15:18:02.995782+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,17,138,4,8.12,42,4,death,0.0,0,0.0,0,,,,,,0
+876,2026-04-10T15:21:50.257767+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,2,32,1,16.0,28,15,powerplay,0.0,0,0.0,0,201,169,56,77,62,1
+877,2026-04-10T15:22:30.001298+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,18,155,4,8.61,42,17,death,0.0,0,0.0,0,,,,,,0
+878,2026-04-10T15:27:18.598202+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,3,45,2,15.0,41,13,powerplay,0.0,0,0.0,0,201,156,56,77,62,1
+879,2026-04-10T15:28:32.586233+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,19,168,5,8.84,42,13,death,0.0,0,0.0,0,,,,,,0
+880,2026-04-10T15:32:07.647603+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,4,55,2,13.75,51,10,powerplay,0.0,0,0.0,0,201,146,56,77,62,1
+881,2026-04-10T15:34:52.162542+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,1,,,20,182,6,9.1,42,13,death,0.0,0,0.0,0,,,,,,0
+882,2026-04-10T15:37:49.079258+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,5,58,3,11.6,53,2,powerplay,0.0,0,0.0,0,201,143,56,77,62,1
+883,2026-04-10T15:41:48.017517+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,6,61,3,10.17,56,3,powerplay,0.0,0,0.0,0,201,140,56,77,62,1
+884,2026-04-10T15:46:57.676771+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,7,65,4,9.29,56,4,middle,0.0,0,0.0,0,201,136,56,77,62,1
+885,2026-04-10T16:18:05.975610+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,14,125,7,8.93,56,6,middle,0.0,0,0.0,0,201,76,56,77,62,1
+886,2026-04-10T16:19:33.592572+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,6,46,3,7.67,46,3,powerplay,0.0,0,0.0,0,,,,,,0
+887,2026-04-10T16:22:55.299117+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,7,50,3,7.14,46,4,middle,0.0,0,0.0,0,,,,,,0
+888,2026-04-10T16:23:31.822455+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,15,139,7,9.27,56,14,middle,0.0,0,0.0,0,201,62,56,77,62,1
+889,2026-04-10T16:27:51.989219+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,8,54,3,6.75,46,3,middle,0.0,0,0.0,0,,,,,,0
+890,2026-04-10T16:28:04.042629+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,16,150,7,9.38,56,11,death,0.0,0,0.0,0,201,51,56,77,62,1
+891,2026-04-10T16:32:01.092287+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,9,64,3,7.11,46,10,middle,0.0,0,0.0,0,,,,,,0
+892,2026-04-10T16:33:52.463096+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,17,166,7,9.76,56,16,death,0.0,0,0.0,0,201,35,56,77,62,1
+893,2026-04-10T16:37:15.621961+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,10,72,3,7.2,46,8,middle,0.0,0,0.0,0,,,,,,0
+894,2026-04-10T16:39:57.114756+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,18,171,8,9.5,56,5,death,0.0,0,0.0,0,201,30,56,77,62,1
+895,2026-04-10T16:40:33.877536+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,11,77,4,7.0,46,5,middle,0.0,0,0.0,0,,,,,,0
+896,2026-04-10T16:43:46.928076+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,19,179,8,9.42,56,8,death,0.0,0,0.0,0,201,22,56,77,62,1
+897,2026-04-10T16:46:16.843104+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,12,82,5,6.83,46,5,middle,0.0,0,0.0,0,,,,,,0
+898,2026-04-10T16:49:36.008604+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,1,,,20,201,8,10.05,56,21,death,0.0,0,0.0,0,201,0,56,77,62,1
+899,2026-04-10T16:51:02.845544+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,13,86,7,6.62,46,4,middle,0.0,0,0.0,0,,,,,,0
+900,2026-04-10T16:54:47.486643+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,14,99,7,7.07,46,13,middle,0.0,0,0.0,0,,,,,,0
+901,2026-04-10T16:57:30.020479+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,15,104,8,6.93,46,5,middle,0.0,0,0.0,0,,,,,,0
+902,2026-04-10T17:02:45.206879+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,16,117,8,7.31,46,13,death,0.0,0,0.0,0,,,,,,0
+903,2026-04-10T17:05:03.835764+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,1,9,0,9.0,9,9,powerplay,0.0,0,0.0,0,,,,,,0
+904,2026-04-10T17:05:40.057549+00:00,69491,psl,National Stadium,Quetta Gladiators,Rawalpindiz,2,,,17,120,8,7.06,46,3,death,0.0,0,0.0,0,,,,,,0
+905,2026-04-10T17:09:38.157629+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,2,21,1,10.5,21,12,powerplay,0.0,0,0.0,0,,,,,,0
+906,2026-04-10T17:15:04.430183+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,3,37,1,12.33,37,16,powerplay,0.0,0,0.0,0,,,,,,0
+907,2026-04-10T17:20:17.147792+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,4,56,1,14.0,56,19,powerplay,0.0,0,0.0,0,,,,,,0
+908,2026-04-10T17:24:42.012848+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,5,73,1,14.6,73,17,powerplay,0.0,0,0.0,0,,,,,,0
+909,2026-04-10T17:29:21.144205+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,6,97,1,16.17,97,24,powerplay,0.0,0,0.0,0,,,,,,0
+910,2026-04-10T17:35:38.834835+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,7,111,1,15.86,97,14,middle,0.0,0,0.0,0,,,,,,0
+911,2026-04-10T17:39:24.636974+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,8,129,1,16.12,97,18,middle,0.0,0,0.0,0,,,,,,0
+912,2026-04-10T17:46:13.121412+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,9,132,3,14.67,97,3,middle,0.0,0,0.0,0,,,,,,0
+913,2026-04-10T17:52:48.130816+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,10,137,4,13.7,97,5,middle,0.0,0,0.0,0,,,,,,0
+914,2026-04-10T17:56:17.044741+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,11,141,4,12.82,97,4,middle,0.0,0,0.0,0,,,,,,0
+915,2026-04-10T17:59:58.597555+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,12,145,4,12.08,97,4,middle,0.0,0,0.0,0,,,,,,0
+916,2026-04-10T18:03:18.139791+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,13,154,4,11.85,97,9,middle,0.0,0,0.0,0,,,,,,0
+917,2026-04-10T18:08:53.576248+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,14,163,4,11.64,97,8,middle,0.0,0,0.0,0,,,,,,0
+918,2026-04-10T18:14:50.697959+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,15,177,4,11.8,97,14,middle,0.0,0,0.0,0,,,,,,0
+919,2026-04-10T18:20:14.395603+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,16,184,4,11.5,97,7,death,0.0,0,0.0,0,,,,,,0
+920,2026-04-10T18:28:55.373799+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,17,191,4,11.24,97,7,death,0.0,0,0.0,0,,,,,,0
+921,2026-04-10T18:32:50.824732+00:00,69533,ipl,Barsapara Cricket Stadium,Rajasthan Royals,Royal Challengers Bengaluru,2,,,18,202,4,11.22,97,11,death,0.0,0,0.0,0,,,,,,0
+922,2026-04-11T09:34:31.265185+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,1,1,0,1.0,1,1,powerplay,0.0,0,0.0,0,173,172,49,77,45,1
+923,2026-04-11T09:38:02.744745+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,2,18,0,9.0,18,17,powerplay,0.0,0,0.0,0,173,155,49,77,45,1
+924,2026-04-11T09:43:48.480589+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,3,23,1,7.67,23,5,powerplay,0.0,0,0.0,0,173,150,49,77,45,1
+925,2026-04-11T09:49:06.011923+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,4,36,1,9.0,36,13,powerplay,0.0,0,0.0,0,173,137,49,77,45,1
+926,2026-04-11T09:53:14.949011+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,5,40,1,8.0,40,4,powerplay,0.0,0,0.0,0,173,133,49,77,45,1
+927,2026-04-11T09:59:50.462144+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,6,49,1,8.17,49,9,powerplay,0.0,0,0.0,0,173,124,49,77,45,1
+928,2026-04-11T10:04:48.074166+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,7,54,1,7.71,49,5,middle,0.0,0,0.0,0,173,119,49,77,45,1
+929,2026-04-11T10:05:37.932272+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,1,9,0,9.0,9,9,powerplay,0.0,0,0.0,0,219,210,104,71,43,1
+930,2026-04-11T10:09:35.454065+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,8,62,1,7.75,49,8,middle,0.0,0,0.0,0,173,111,49,77,45,1
+931,2026-04-11T10:10:26.562292+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,2,20,0,10.0,19,10,powerplay,0.0,0,0.0,0,219,199,104,71,43,1
+932,2026-04-11T10:13:30.238707+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,9,70,1,7.78,49,8,middle,0.0,0,0.0,0,173,103,49,77,45,1
+933,2026-04-11T10:16:49.875921+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,10,77,1,7.7,49,7,middle,0.0,0,0.0,0,173,96,49,77,45,1
+934,2026-04-11T10:18:41.571121+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,3,44,0,14.67,43,24,powerplay,0.0,0,0.0,0,219,175,104,71,43,1
+935,2026-04-11T10:19:56.961278+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,11,81,1,7.36,49,4,middle,0.0,0,0.0,0,173,92,49,77,45,1
+936,2026-04-11T10:23:18.240488+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,12,92,1,7.67,49,11,middle,0.0,0,0.0,0,173,81,49,77,45,1
+937,2026-04-11T10:31:59.472891+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,14,113,1,8.07,49,10,middle,0.0,0,0.0,0,173,60,49,77,45,1
+938,2026-04-11T10:34:54.226175+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,6,105,0,17.5,104,21,powerplay,0.0,0,0.0,0,219,114,104,71,43,1
+939,2026-04-11T10:37:12.044843+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,15,126,1,8.4,49,13,middle,0.0,0,0.0,0,173,47,49,77,45,1
+940,2026-04-11T10:41:46.723265+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,7,111,0,15.86,104,6,middle,0.0,0,0.0,0,219,108,104,71,43,1
+941,2026-04-11T10:44:30.781400+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,16,140,2,8.75,49,14,death,0.0,0,0.0,0,173,33,49,77,45,1
+942,2026-04-11T10:45:08.845514+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,8,120,0,15.0,104,9,middle,0.0,0,0.0,0,219,99,104,71,43,1
+943,2026-04-11T10:51:35.919632+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,17,150,3,8.82,49,8,death,0.0,0,0.0,0,173,23,49,77,45,1
+944,2026-04-11T10:52:12.403343+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,9,124,2,13.78,104,4,middle,0.0,0,0.0,0,219,95,104,71,43,1
+945,2026-04-11T10:56:36.501248+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,10,132,2,13.2,104,9,middle,0.0,0,0.0,0,219,87,104,71,43,1
+946,2026-04-11T10:59:47.286553+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,18,157,4,8.72,49,7,death,0.0,0,0.0,0,173,16,49,77,45,1
+947,2026-04-11T11:00:25.290045+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,11,143,2,13.0,104,11,middle,0.0,0,0.0,0,219,76,104,71,43,1
+948,2026-04-11T11:04:26.061427+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,12,151,2,12.58,104,8,middle,0.0,0,0.0,0,219,68,104,71,43,1
+949,2026-04-11T11:05:41.095968+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,19,165,6,8.68,49,8,death,0.0,0,0.0,0,173,8,49,77,45,1
+950,2026-04-11T11:08:25.221206+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,13,160,2,12.31,104,9,middle,0.0,0,0.0,0,219,59,104,71,43,1
+951,2026-04-11T11:13:23.936309+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,1,,,20,173,7,8.65,49,8,death,0.0,0,0.0,0,173,0,49,77,45,1
+952,2026-04-11T11:14:26.638073+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,14,169,3,12.07,104,9,middle,0.0,0,0.0,0,219,50,104,71,43,1
+953,2026-04-11T11:18:24.404541+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,15,176,3,11.73,104,7,middle,0.0,0,0.0,0,219,43,104,71,43,1
+954,2026-04-11T11:25:06.064008+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,16,182,3,11.38,104,5,death,0.0,0,0.0,0,219,37,104,71,43,1
+955,2026-04-11T11:30:18.822809+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,17,197,4,11.59,104,15,death,0.0,0,0.0,0,219,22,104,71,43,1
+956,2026-04-11T11:31:47.059194+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,1,3,0,3.0,3,3,powerplay,0.0,0,0.0,0,,,,,,0
+957,2026-04-11T11:34:28.563701+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,18,206,4,11.44,104,9,death,0.0,0,0.0,0,219,13,104,71,43,1
+958,2026-04-11T11:37:24.249882+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,2,9,1,4.5,9,6,powerplay,0.0,0,0.0,0,,,,,,0
+959,2026-04-11T11:40:59.585264+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,19,214,5,11.26,104,8,death,0.0,0,0.0,0,219,5,104,71,43,1
+960,2026-04-11T11:41:36.188701+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,3,21,1,7.0,21,12,powerplay,0.0,0,0.0,0,,,,,,0
+961,2026-04-11T11:46:12.844782+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,4,32,1,8.0,32,11,powerplay,0.0,0,0.0,0,,,,,,0
+962,2026-04-11T11:48:17.807439+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,1,,,20,219,6,10.95,104,5,death,0.0,0,0.0,0,219,0,104,71,43,1
+963,2026-04-11T11:49:58.887332+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,5,39,1,7.8,39,7,powerplay,0.0,0,0.0,0,,,,,,0
+964,2026-04-11T11:56:13.126923+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,6,43,2,7.17,43,4,powerplay,0.0,0,0.0,0,,,,,,0
+965,2026-04-11T12:01:25.715335+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,7,46,3,6.57,43,3,middle,0.0,0,0.0,0,,,,,,0
+966,2026-04-11T12:06:14.728478+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,8,52,3,6.5,43,6,middle,0.0,0,0.0,0,,,,,,0
+967,2026-04-11T12:08:09.364866+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,1,18,0,18.0,18,18,powerplay,0.0,0,0.0,0,,,,,,0
+968,2026-04-11T12:10:52.210460+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,9,55,4,6.11,43,3,middle,0.0,0,0.0,0,,,,,,0
+969,2026-04-11T12:14:14.109375+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,2,29,0,14.5,29,11,powerplay,0.0,0,0.0,0,,,,,,0
+970,2026-04-11T12:15:29.965522+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,10,59,5,5.9,43,4,middle,0.0,0,0.0,0,,,,,,0
+971,2026-04-11T12:18:39.128594+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,3,40,0,13.33,40,11,powerplay,0.0,0,0.0,0,,,,,,0
+972,2026-04-11T12:19:42.133937+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,11,64,6,5.82,43,5,middle,0.0,0,0.0,0,,,,,,0
+973,2026-04-11T12:24:56.470549+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,12,69,7,5.75,43,5,middle,0.0,0,0.0,0,,,,,,0
+974,2026-04-11T12:25:22.165573+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,4,55,0,13.75,55,15,powerplay,0.0,0,0.0,0,,,,,,0
+975,2026-04-11T12:30:33.538525+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,13,78,8,6.0,43,9,middle,0.0,0,0.0,0,,,,,,0
+976,2026-04-11T12:31:22.712563+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,5,73,0,14.6,73,18,powerplay,0.0,0,0.0,0,,,,,,0
+977,2026-04-11T12:38:05.218824+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,6,93,0,15.5,93,21,powerplay,0.0,0,0.0,0,,,,,,0
+978,2026-04-11T12:38:29.476930+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,14,79,9,5.64,43,1,middle,0.0,0,0.0,0,,,,,,0
+979,2026-04-11T12:42:38.661131+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,15,84,9,5.6,43,5,middle,0.0,0,0.0,0,,,,,,0
+980,2026-04-11T12:44:43.801291+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,7,101,1,14.43,93,8,middle,0.0,0,0.0,0,,,,,,0
+981,2026-04-11T12:49:20.642878+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,8,109,1,13.62,93,8,middle,0.0,0,0.0,0,,,,,,0
+982,2026-04-11T12:52:19.563268+00:00,69492,psl,National Stadium,Peshawar Zalmi,Lahore Qalandars,2,,,17,97,10,5.71,43,5,death,0.0,0,0.0,0,,,,,,0
+983,2026-04-11T12:54:14.382813+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,9,118,2,13.11,93,9,middle,0.0,0,0.0,0,,,,,,0
+984,2026-04-11T13:00:04.804003+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,10,124,2,12.4,93,6,middle,0.0,0,0.0,0,,,,,,0
+985,2026-04-11T13:04:36.134421+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,11,136,3,12.36,93,12,middle,0.0,0,0.0,0,,,,,,0
+986,2026-04-11T13:09:42.898836+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,12,150,3,12.5,93,14,middle,0.0,0,0.0,0,,,,,,0
+987,2026-04-11T13:13:40.967485+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,13,154,3,11.85,93,4,middle,0.0,0,0.0,0,,,,,,0
+988,2026-04-11T13:17:11.800617+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,14,161,3,11.5,93,7,middle,0.0,0,0.0,0,,,,,,0
+989,2026-04-11T13:22:23.072845+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,15,179,3,11.93,93,18,middle,0.0,0,0.0,0,,,,,,0
+990,2026-04-11T13:30:40.440532+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,16,197,3,12.31,93,18,death,0.0,0,0.0,0,,,,,,0
+991,2026-04-11T13:35:52.098489+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,17,202,4,11.88,93,5,death,0.0,0,0.0,0,,,,,,0
+992,2026-04-11T13:40:25.424304+00:00,69534,ipl,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Sunrisers Hyderabad,2,,,18,216,4,12.0,93,14,death,0.0,0,0.0,0,,,,,,0
