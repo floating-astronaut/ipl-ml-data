@@ -1,3 +1,19 @@
+> **⚠️ FROZEN HISTORICAL ARCHIVE — as of 2026-04-14**
+>
+> This repository is no longer updated. All ML data collection now lives
+> on the server at `/opt/ml/` and stays there — no new pushes land here.
+>
+> - **Authoritative live data:** PostgreSQL tables `ml_signals`, `ml_trades`,
+>   `ml_bars` on the production server
+> - **Daily CSV snapshots:** `/opt/ml/live/YYYY-MM-DD/` (systemd timer
+>   `glitch-ml-export.timer`)
+> - **Historical MT5-era archive** (what used to be pushed here): moved to
+>   `/opt/ml/historical/` on the server
+>
+> Keep this repo around as read-only history. Archive in the GitHub UI
+> when convenient (Settings → Danger Zone → Archive this repository).
+
+---
 # IPL ML Data
 
 Private cricket ML data repository for the Glitch cricket stack.
